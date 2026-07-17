@@ -1,0 +1,42 @@
+NGE Episode Workflow
+
+July 16 2026
+
+Discord: mudkip260
+Please DM for questions. I am not on the internet much. I just had a good idea.
+
+🟢 1. Extract ADV audio from McBalls's MKV file (MKVToolNix). Comes out as ac3.
+🟢 2. Convert ADV.ac3 to ADV.WAV (ffmpeg)
+🟢 3. Auto-transcribe ADV.WAV (MacWhisper)
+🔴 4. MANUALLY fix dialogue (MacWhisper)
+	•	Assign speakers
+	•	Add missing lines
+	•	Remove hallucinations
+🟢 5. Export ADV.Whisper to ADV.txt for Screenplay v1 (MacWhisper)
+🟢 6. Export ADV.Whisper as ADV.SRT (MacWhisper)
+🟢 7. Import ADV.SRT. Save as ADV.ASS (Aegisub)
+🟡 8. Update title cards for each episode(Aegisub)
+	•	Copy/Paste duplicate cardsfrom Episode 1's Manual Creation.
+	•	Opening: GeekyFanDubs lyrics, Perfect Collection Titles, Adjust Episode Director
+	•	Ending: Credits and singer lyrics.
+🔴 9. Retime dialogue (Aegisub)
+	•	Quality Control: Extend starts/ends. Whisper truncates attributions.
+	•	Adjust dialog further as needed.
+
+🟢 10. Extract Dekinai subtitles as a .ASS file (MKVToolNix)
+🟡 11. Merge ADV.ASS into Dekinai.ASS (Aegisub)
+	•	Copy/paste rows from one Aegisub window into another.
+	•	Adjust for Dekinai dialogue
+	•	Keep signs/typesetting
+	•	Translate missing items.
+🟢 12. Export merged Dekinai+ADV.ASS file. This is a "fork."(Aegisub)
+🟢 13. Change "SPEAKER: I AM TALKING" from Dekinai+ADV.ASS file to "I AM TALKING" and assign speaker in .ASS file. Creates Dekinai+ADV (Attributed).ASS (Python)
+This has:
+A. GeekyFanDubs singable translated lyrics.
+B. Perfect Collection Translated Opening Title Cards
+C. Dekinai typesetting and timing for Japanese text inside episode.
+D. Perfect Collection Translated Closing Title Cards
+🟢 14. Convert Dekinai+ADV (Attributed).ASS to Creates Dekinai+ADV (Attributed).txt, for Screenplay v2 (Aegisub)
+This is:
+The most accurate ADV subtitle transcription. This does not currently exist anywhere it seems. It includes both Japanese characters and ADV English audio, all in written form. It removes the time stamps and subtitle metadata.
+🟢 15. Mux back into McBalls's MKV (MKVToolNix)
