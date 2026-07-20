@@ -24,6 +24,8 @@ Please DM for questions. I am not on the internet much. I just had a good idea.
 	•	Adjust dialog further as needed.
 🟢 10. Save as "Episode # C ADV Dubtitles.ASS" (Aegisub)
 🟢 11. Extract Dekinai subtitles as "Episode # B Dekinai.ass" file (MKVToolNix)
+Extract Dekinai fonts (MKVToolNix)
+Install Dekinai fonts (Aegisub)
 🟡 12. Merge "Episode # C ADV Dubtitles.ASS" into "Episode # B Dekinai.ass" (Aegisub)
 	•	Copy/paste rows from one Aegisub window into another.
 	•	Adjust for Dekinai dialogue
