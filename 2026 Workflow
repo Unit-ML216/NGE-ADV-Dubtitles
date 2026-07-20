@@ -15,30 +15,30 @@ Please DM for questions. I am not on the internet much. I just had a good idea.
 🟢 5. Export ADV.Whisper to ADV.txt as "Episode # A Screenplay.txt" (MacWhisper)
 🟢 6. Export ADV.Whisper as ADV.SRT (MacWhisper)
 🟢 7. Import ADV.SRT. Save as ADV.ASS (Aegisub)
-🟡 8. Update title cards for each episode(Aegisub)
-	•	Copy/Paste duplicate cardsfrom Episode 1's Manual Creation.
+🟡 8. Update title cards for each episode (Aegisub)
+	•	Copy/Paste duplicate cards from Episode 1's 🔴 Manual Creation.
 	•	Opening: GeekyFanDubs lyrics, Perfect Collection Titles, Adjust Episode Director
 	•	Ending: Credits and singer lyrics.
 🔴 9. Retime dialogue (Aegisub)
 	•	Quality Control: Extend starts/ends. Whisper truncates attributions.
 	•	Adjust dialog further as needed.
 🟢 10. Save as "Episode # C ADV Dubtitles.ASS" (Aegisub)
-🟢 11. Extract Dekinai subtitles as "Episode # B Dekinai.ass" file (MKVToolNix)
-Extract Dekinai fonts (MKVToolNix)
-Install Dekinai fonts (Aegisub)
-🟡 12. Merge "Episode # C ADV Dubtitles.ASS" into "Episode # B Dekinai.ass" (Aegisub)
+🟢 11. Extract Dekinai's subtitles as "Episode # B Dekinai.ass" file (MKVToolNix)
+🟢 12. Extract Dekinai's fonts (MKVToolNix)
+🟢 13. Install Dekinai's fonts (Aegisub)
+🟡 14. Merge "Episode # C ADV Dubtitles.ASS" into "Episode # B Dekinai.ass" (Aegisub)
 	•	Copy/paste rows from one Aegisub window into another.
-	•	Adjust for Dekinai dialogue
+	•	Adjust for Dekinai's translations
 	•	Keep signs/typesetting
 	•	Translate missing items.
-🟢 13. Export merged "Episode # D combined.ass" file. This is a "fork."(Aegisub)
-🟢 14. Change "SPEAKER: I AM TALKING" from "Episode # D combined.ass" file to "I AM TALKING" and assign speaker in .ASS file. Creates "Episode # E combined attributed.ass" (Python)
+🟢 15. Export merged "Episode # D combined.ass" file. This is a "fork."(Aegisub)
+🟢 16. Change "SPEAKER: I AM TALKING" from "Episode # D combined.ass" file to "I AM TALKING" and assign speaker in .ASS file. Creates "Episode # E combined attributed.ass" (Python)
 This has:
 A. GeekyFanDubs singable translated lyrics.
 B. Perfect Collection Translated Opening Title Cards
 C. Dekinai typesetting and timing for Japanese text inside episode.
 D. Perfect Collection Translated Closing Title Cards
-🟢 15. Convert "Episode # E combined attributed.ass" to "Episode # F Screenplay" (Aegisub)
+🟢 17. Convert "Episode # E combined attributed.ass" to "Episode # F Screenplay" (Aegisub)
 This is:
 The most accurate ADV subtitle transcription. This does not currently exist anywhere it seems. It includes both Japanese characters and ADV English audio, all in written form. It removes the time stamps and subtitle metadata.
-🟢 15. Mux back into McBalls's MKV (MKVToolNix)
+🟢 18. Mux back into McBalls's MKV (MKVToolNix)
