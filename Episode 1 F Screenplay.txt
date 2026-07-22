@@ -160,8 +160,6 @@ NAS
 
 The year is 2015 A.D.
 
-The year is 2015 A.D.
-
 [Cicadas droning]
 
 May I have your attention.
@@ -176,63 +174,25 @@ Repeat. As of 12.30 p.m. today, a state of emergency has been declared for the K
 
 All Lines Stopped
 
-All Lines Stopped
-
 All residents must evacuate to their shelters immediately.
 
 Misato: Damn! Why did I have to lose him at a time like this? Why now? (Sigh)
 
 lkari Shinji
 
-lkari Shinji
-
-We're sorry. Due to the state of special emergency, no lines are currently available. This is a recording.
+Female Voice: We're sorry. Due to the state of special emergency, no lines are currently available. This is a recording.
 
 Shinji: Ugh. It's no use. This is dumb! I shouldn't have come here. Ahh!
 
 To Shinji
+I'll be coming to get you, so wait for me.
+Attention here please!
 
-I'll be coming
-
-to get you,
-
-so wait for me.
-
-Attention
-
-here
-
-please!
-
-To Shinji
-
-I'll be coming
-
-to get you,
-
-so wait for me.
-
-Attention
-
-here
-
-please!
-
-Shinji: I guess we won't be meeting here.
-
-Shinji: Maybe I should, find a shelter.
-
-Shinji: Huh?
-
-Shinji: Woah!
+Shinji: I guess we won't be meeting here. Maybe I should, find a shelter. Huh? Woah!
 
 友銀行 Friend Bank     早雲山運送 Sōunzan Transport
 
-Shinji: Hhh. Ahh. Ohh. Huh?
-
-Shinji: Ohh.
-
-Estimated Path
+Shinji: Hhh. Ahh. Ohh. Huh? Ohh.
 
 Estimated Path
 
@@ -242,35 +202,16 @@ Male Voice: We've got it on visual. I'm putting it on the main screen.
 
 Fuyutsuki: It's been 15 years.
 
-Gendo: Yes. Well now we know for sure.
-
-Gendo: The angels are back.
+Gendo: Yes. Well now we know for sure. The angels are back.
 
 episode one
-
-episode one
-
-Angel
-
-Angel
-
-Attack
-
-Attack
+Angel Attack
 
 Shinji: Ah! Ahh!
 
-Male Voice: Every single missile hit the target!
+Male Voice: Every single missile hit the target! No! Ahh!
 
-Male Voice: No! Ahh!
-
-Shinji: Ah! Oh. Uh. Uh!
-
-Shinji: Ahh! Oh. Hh. Hh.
-
-Shinji: Uh. Ahh! Oh.
-
-Shinji: Uh. Uh.
+Shinji: Ah! Oh. Uh. Uh! Ahh! Oh. Hh. Hh. Uh. Ahh! Oh. Uh. Uh.
 
 Misato: Sorry! Get in! Am I real late?
 
@@ -280,15 +221,7 @@ Male Voice: The target's still coming towards us. It's headed straight for Tokyo
 
 Female Voice: The air defense force doesn't have enough firepower to stop it!
 
-Generals: Fire everything we've got! Mobilize the Atsugi and Iruma Forces!
-
-Generals: Don't hold anything back! Destroy that thing at any cost!
-
-Generals: It's not possible! That was a direct hit!
-
-Generals: The tank battalion's been wiped out! Guided missiles and artillery fire seem to have no effect at all!
-
-Generals: Damn it! We've hit it with everything we've got and we're not even touching it!
+Generals: Fire everything we've got! Mobilize the Atsugi and Iruma Forces! Don't hold anything back! Destroy that thing at any cost! It's not possible! That was a direct hit! The tank battalion's been wiped out! Guided missiles and artillery fire seem to have no effect at all! Damn it! We've hit it with everything we've got and we're not even touching it!
 
 Fuyutsuki: Looks like an AT field. Hmm?
 
@@ -296,23 +229,13 @@ Gendo: Yes. Conventional weapons are no match for the Angels.
 
 Generals: I understand, sir. We'll execute backup plan at once.
 
-Misato: Now wait a second!
-
-Misato: No! They're gonna use an N2 mine!
-
-Misato: Get down!
+Misato: Now wait a second! No! They're gonna use an N2 mine! Get down!
 
 Shinji: (Muffled).
 
-Both: Ooh. Ow! Oh!
+Both: Ooh. Ow! Oh! Oh! Ow! Ohhh.
 
-Both: Oh! Ow!
-
-Both: Ohhh.
-
-Generals: Yeah! We did it! Alright!
-
-Generals: Well, Ikari, it looks like you won't be getting a shot at it.
+Generals: Yeah! We did it! Alright! Well, Ikari, it looks like you won't be getting a shot at it.
 
 Female Voice: Shockwave approaching.
 
@@ -320,33 +243,17 @@ Shinji: Coughs
 
 Misato: Are you all right?
 
-Shinji: Yeah.
+Shinji: Yeah. But my mouth is full of dirt. Puh.
 
-Shinji: But my mouth is full of dirt. Puh.
-
-Misato: You'll be all right. Come on.
-
-Misato: Ready to push?
-
-Misato: Go!
-
-Misato: Push!
+Misato: You'll be all right. Come on. Ready to push? Go! Push!
 
 Shinji: Err!
 
-Misato: Giyah!
-
-Misato: Yeah!
-
-Misato: Hah! Thanks, Shinji. You're pretty useful.
+Misato: Giyah! Yeah! Hah! Thanks, Shinji. You're pretty useful.
 
 Shinji: Thank you, but I should thank you, Miss Katsuragi.
 
-Misato: Uh, Misato is fine.
-
-Misato: So, Shinji Ikari, we meet at last.
-
-Misato: Uh, yeah.
+Misato: Uh, Misato is fine. So, Shinji Ikari, we meet at last. Uh, yeah.
 
 Generals: What's the status of the target?
 
@@ -362,31 +269,9 @@ Generals: It can't be!
 
 Male Voice: External cameras online.
 
-Generals: What the-
+Generals: What the- That was our last resort. No effect at all. It's a demon!
 
-Generals: That was our last resort.
-
-Generals: No effect at all.
-
-Generals: It's a demon!
-
-Misato: Yes, don't worry.
-
-Misato: His safety is my top priority.
-
-Misato: Look, can you get a car train ready for us?
-
-Misato: An express, of course.
-
-Misato: Well, I did volunteer to pick him up, so it's only my duty to make sure he gets there.
-
-Misato: See ya.
-
-Misato: (V.O.) Oh, this stinks. I just had this car repaired and it's a total wreck already.
-
-Misato: 33 more payments to go, plus the cost of repairs.
-
-Misato: And look, my favorite dress is ruined. Ruined!
+Misato: Yes, don't worry. His safety is my top priority. Look, can you get a car train ready for us? An express, of course. Well, I did volunteer to pick him up, so it's only my duty to make sure he gets there. See ya. (V.O.) Oh, this stinks. I just had this car repaired and it's a total wreck already. 33 more payments to go, plus the cost of repairs. And look, my favorite dress is ruined. Ruined!
 
 Shinji: Um, Miss Misato?
 
@@ -398,27 +283,15 @@ Misato: Hmm? What's that?
 
 Shinji: Those batteries, isn't that, um, theft?
 
-Misato: Uh, don't worry about it.
-
-Misato: Uh, it's an emergency and we needed a working car, right? Heh!
-
-Misato: Uh, I am a government official after all, so, everything's gonna be perfectly fine, okay?
-
-Misato: Okay.
+Misato: Uh, don't worry about it. Uh, it's an emergency and we needed a working car, right? Heh! Uh, I am a government official after all, so, everything's gonna be perfectly fine, okay? Okay.
 
 Shinji: Mm. I don't think anyone will buy that excuse.
 
-Misato: You're no fun.
-
-Misato: You know, you're not as cute as I thought you were.
+Misato: You're no fun. You know, you're not as cute as I thought you were.
 
 Shinji: Hmph. Is that so?
 
-Misato: Ooh, angry?
-
-Misato: I'm sorry.
-
-Misato: Hahaha. You're just a boy after all.
+Misato: Ooh, angry? I'm sorry. Hahaha. You're just a boy after all.
 
 Shinji: You're not as mature as I thought you'd be either.
 
@@ -428,21 +301,17 @@ Generals: As we suspected, it's regenerating itself.
 
 Gendo: Without that ability, it couldn't operate without support units.
 
-Fuyutsuki: Well, quite impressive.
-
-Fuyutsuki: It can upgrade its operational parameters.
+Fuyutsuki: Well, quite impressive. It can upgrade its operational parameters.
 
 Gendo: And it's also getting smarter.
 
 Fuyutsuki: It should renew its attack any minute now.
 
-Female Voice: The gates are now closing. Please stand clear.
-
-Female Voice: This is a B-22 special express departing from G-33-1. This train will bypass all other stations. Please stand back
+Female Voice: The gates are now closing. Please stand clear. This is a B-22 special express departing from G-33-1. This train will bypass all other stations. Please stand back
 
 Shinji: NERV?
 
-Misato:Ah-huh! It's a secret organization controlled by the UN.
+Misato: Ah-huh! It's a secret organization controlled by the UN.
 
 Shinji: And that's where my father works?
 
@@ -454,11 +323,7 @@ Generals: Command of this operation is being entrusted to you. Don't betray our 
 
 Gendo: Yes, sir.
 
-Generals: Mr. Ikari, we've already seen that our weapons seem to have no effect on these things.
-
-Generals: That's why we're giving you a chance.
-
-Generals: Are you sure that you can beat them?
+Generals: Mr. Ikari, we've already seen that our weapons seem to have no effect on these things. That's why we're giving you a chance. Are you sure that you can beat them?
 
 Gendo: That is why NERV exists.
 
@@ -482,54 +347,30 @@ Misato: (Sigh) Of course. Of course we are.
 
 Shinji: Mmm. Father. (Train sounds)
 
-Misato: Oh, yeah.
+Misato: Oh, yeah. Did your dad send you an ID card?
 
-Misato: Did your dad send you an ID card?
-
-Shinji: Huh? Umm. Yeah.
-
-Shinji: This is it.
+Shinji: Huh? Umm. Yeah. This is it.
 
 Misato: Oh, thanks.
 
 Come.
-
-Ikari
-       Gendo
+Ikari Gendo
 
 Misato: Here, start reading this, okay?
 
 Welcome to
 
-Shinji: NERV.
-
-Shinji: My father's agency.
-
-Shinji: Am I gonna be working for him?
+Shinji: NERV. My father's agency. Am I gonna be working for him?
 
 Misato: Mm.
 
-Shinji: What am I saying?
+Shinji: What am I saying? He wouldn't have sent me a letter unless he needed me for something.
 
-Shinji: He wouldn't have sent me a letter unless he needed me for something.
+Misato: Hmm. Sounds like you don't get along with your dad. Huh, you sound just like me.
 
-Misato: Hmm. Sounds like you don't get along with your dad.
+Shinji: Woah! Oh! Awesome! Oh! It's a real GeoFront!
 
-Misato: Huh, you sound just like me.
-
-Shinji: Woah! Oh! Awesome!
-
-Shinji: Oh! It's a real GeoFront!
-
-Misato: That's right.
-
-Misato: This is our secret underground base.
-
-Misato: NERV Central.
-
-Misato: This city is the key to rebuilding our world.
-
-Misato: A fortress for all mankind.
+Misato: That's right. This is our secret underground base. NERV Central. This city is the key to rebuilding our world. A fortress for all mankind.
 
 エヴァンゲリオン
 Evangerion (Japanese pronunciation)
@@ -542,77 +383,6 @@ Literal: New Century
 Misato: (Sigh) What on Earth? Isn't this the right way?
 
 Nerv Headquarters
-
-Nerv Headquarters
-
-Around here
-
-Around here
-
-Nerv Headquarters
-
-Nerv Headquarters
-
-Around here
-
-Nerv Headquarters
-
-Nerv Headquarters
-
-Around here
-
-Nerv Headquarters
-
-Nerv Headquarters
-
-Around here
-
-Nerv Headquarters
-
-Nerv Headquarters
-
-Around here
-
-Nerv Headquarters
-
-Nerv Headquarters
-
-Around here
-
-Nerv Headquarters
-
-Nerv Headquarters
-
-Around here
-
-Nerv Headquarters
-
-Nerv Headquarters
-
-Around here
-
-Nerv Headquarters
-
-Nerv Headquarters
-
-Around here
-
-Nerv Headquarters
-
-Nerv Headquarters
-
-Around here
-
-Nerv Headquarters
-
-Nerv Headquarters
-
-Around here
-
-Nerv Headquarters
-
-Nerv Headquarters
-
 Around here
 
 Female Voice: Central Dogma's closed passages remain sealed. Opening lock B-26 in sequence.
@@ -621,17 +391,13 @@ Misato: It's because of these things that I hate to wear a skirt around here.
 
 Shinji: Mm-hm.
 
-Misato: I wonder where in the heck Ritsuko is.
-
-Misato: I'm sorry. I'm not used to this place.
+Misato: I wonder where in the heck Ritsuko is. I'm sorry. I'm not used to this place.
 
 Shinji: We passed this spot twice already.
 
 Misato: Rrr. Well don't worry about it! They make those transit things to be used you know!
 
 Female Voice: Would the chairperson of E Project, Technical Division 1, Dr Ritsuko Akagi, please contact, Captain Misato Katsuragi, of Operations Division 1, immediately.
-
-Air
 
 Air
 
@@ -645,9 +411,7 @@ Ritsuko: Hmm.
 
 Misato: Uh, ugh.
 
-Ritsuko: Why are you wasting my time, *Captain*?
-
-Ritsuko: Don't you know we're short on time *and* manpower?
+Ritsuko: Why are you wasting my time, *Captain*? Don't you know we're short on time *and* manpower?
 
 Misato: Eheh, Sorry.
 
@@ -657,11 +421,7 @@ Misato: Uhh, right. According to the Marduk report, he's the third child.
 
 Ritsuko: Hmm. Pleased to meet you.
 
-Misato: Hm? Oh! Sure.
-
-Misato: I'm afraid he's just like his father.
-
-Misato: The gruff and unfriendly part, that is. (Hm)
+Misato: Hm? Oh! Sure. I'm afraid he's just like his father. The gruff and unfriendly part, that is. (Hm)
 
 Gendo: Handle the rest of this.
 
@@ -687,9 +447,7 @@ Ritsuko: It's currently undergoing refrigeration using the B-type equipment.
 
 Misato: Does it really work? It's never worked before, has it?
 
-Ritsuko: The possibility of activation is 0.00000, 00001%.
-
-Ritsuko: Around here we just call it the 09 system.
+Ritsuko: The possibility of activation is 0.00000, 00001%. Around here we just call it the 09 system.
 
 Misato: Does that mean it doesn't work?
 
@@ -701,25 +459,13 @@ Misato: Well, anyway! I suppose it's a bit late to be saying, "Sorry it doesn't 
 
 左 Left
 
-Shinji: Hey! Uh. Eh. Why is it so dark in here?
-
-Shinji: Wuh? Agh! Uh. Ooh.
-
-Shinji: Oh! It's a face! A giant robot! Oh.
+Shinji: Hey! Uh. Eh. Why is it so dark in here? Wuh? Agh! Uh. Ooh. Oh! It's a face! A giant robot! Oh.
 
 Ritsuko: You won't find this in there.
 
 Shinji: What?
 
-Ritsuko: This is man's ultimate fighting machine.
-
-Ritsuko: The synthetic life form known as Evangelion.
-
-Ritsuko: Unit-01.
-
-Ritsuko: Built here in secret.
-
-Ritsuko: It is mankind's last hope.
+Ritsuko: This is man's ultimate fighting machine. The synthetic life form known as Evangelion. Unit-01. Built here in secret. It is mankind's last hope.
 
 Shinji: Is this my father's work?
 
@@ -733,15 +479,11 @@ Shinji: Father...
 
 Gendo: Hph. We're moving out.
 
-Misato: Moving out? But Unit-00's still in cryostasis! Huh?
-
-Misato: Wait a minute! You're gonna use Unit-01?
+Misato: Moving out? But Unit-00's still in cryostasis! Huh? Wait a minute! You're gonna use Unit-01?
 
 Ritsuko: There's no other way.
 
-Misato: Now wait! Rei can't do it yet, can she?
-
-Misato: We don't have a pilot!
+Misato: Now wait! Rei can't do it yet, can she? We don't have a pilot!
 
 Ritsuko: We just received one.
 
@@ -755,25 +497,13 @@ Ritsuko: You will pilot it.
 
 Shinji: Huh?
 
-Misato: But even Rei Ayanami took seven months to synchronize with her EVA.
+Misato: But even Rei Ayanami took seven months to synchronize with her EVA. It's impossible for him to do it. He *just* *got* here!
 
-Misato: It's impossible for him to do it.
-
-Misato: He *just* *got* here!
-
-Ritsuko: He just has to sit in the seat.
-
-Ritsuko: We don't expect more than that.
+Ritsuko: He just has to sit in the seat. We don't expect more than that.
 
 Misato: Uhh but...
 
-Ritsuko: Listen, defeating that angel is our ultimate priority.
-
-Ritsuko: If we have someone who has a chance at synchronizing with an EVA,
-
-Ritsuko: then we've got to risk it.
-
-Ritsuko: You do understand that, don't you, *Captain* Katsuragi?
+Ritsuko: Listen, defeating that angel is our ultimate priority. If we have someone who has a chance at synchronizing with an EVA, then we've got to risk it. You do understand that, don't you, *Captain* Katsuragi?
 
 Misato: Yes, ma'am.
 
@@ -785,9 +515,7 @@ Shinji: So, you're asking me to take this thing, and go out there and fight?
 
 Gendo: Correct.
 
-Shinji: How could you do this to me? I thought you didn't want me.
-
-Shinji: Why? Why did you have to call me now, Father?
+Shinji: How could you do this to me? I thought you didn't want me. Why? Why did you have to call me now, Father?
 
 Gendo: Because I have a use for you.
 
@@ -795,17 +523,13 @@ Shinji: (Video) But why? Why me?
 
 Gendo: Because there is no one else who can.
 
-Shinji: No, I can't! I've never even seen anything like this before!
-
-Shinji: There's no way I can do this!
+Shinji: No, I can't! I've never even seen anything like this before! There's no way I can do this!
 
 Gendo: You will be instructed.
 
 Shinji: But still! There's no way! I can't pilot that thing!
 
-Gendo: If you're going to do it, do it now. If not, then leave.
-
-Gendo: It's close. It must sense us.
+Gendo: If you're going to do it, do it now. If not, then leave. It's close. It must sense us.
 
 Ritsuko: Shinji, we don't have much time.
 
@@ -813,9 +537,7 @@ Shinji: Uh?
 
 Misato: Get inside.
 
-Shinji: This is all wrong. I came all this way.
-
-Shinji: Awh, why did I come?
+Shinji: This is all wrong. I came all this way. Awh, why did I come?
 
 Misato: Why, Shinji? Exactly why did you come here?
 
@@ -849,39 +571,23 @@ Ritsuko: Reconfigure Unit-01 system for Rei, then activate.
 
 Ibuki: Roger. Calling off current program, and beginning activation.
 
-Shinji: I knew it! Huh. I'm not needed after all. Mm.
+Shinji: I knew it! Huh. I'm not needed after all. Mm. Oh...
 
-Shinji: Oh...
-
-Rei: Ahh. Hf. Ohh. Hu. Hm.
-
-Rei: Aah!
+Rei: Ahh. Hf. Ohh. Hu. Hm. Aah!
 
 Shinji: Woah. Owh!
 
 Misato: Look out!
 
-Shinji: Ahhh!
-
-Shinji: Oh?
+Shinji: Ahhh! Oh?
 
 Gendo: Hm!
 
-Makoto: The EVA activated itself!
+Makoto: The EVA activated itself! It ripped right out of the right arm restraint!
 
-Makoto: It ripped right out of the right arm restraint!
+Ritsuko: No! That's not possible! The entry plug wasn't even inserted! That just can't happen!
 
-Ritsuko: No! That's not possible!
-
-Ritsuko: The entry plug wasn't even inserted!
-
-Ritsuko: That just can't happen!
-
-Misato: Hah, you mean it reacted without any kind of interface?
-
-Misato: Was it really to protect something? To protect him?
-
-Misato: Hah. It's him!
+Misato: Hah, you mean it reacted without any kind of interface? Was it really to protect something? To protect him? Hah. It's him!
 
 Rei: Heh. Ah! Hf.
 
@@ -891,41 +597,21 @@ Rei: Eeh! Aah! Ehuh.
 
 Shiji: Huh? Ohh. Mmm.
 
-Shinji: I mustn't run away. I mustn't run away. I mustn't run away. I mustn't run away. I mustn't *run away*!
-
-Shinji: I'll do it! I'll pilot it!
+Shinji: I mustn't run away. I mustn't run away. I mustn't run away. I mustn't run away. I mustn't *run away*! I'll do it! I'll pilot it!
 
 Male Voice: (Radio) Cooling process completed.
 
-Left
+左 Left
 
-Male Voice: Right arm repairs completed.
-
-Male Voice: Cage now in position for docking.
+Male Voice: Right arm repairs completed. Cage now in position for docking.
 
 Ibuki: Signal plug terminator now being ejected.
 
-Male Voice: (Radio) Roger. Insert an entry plug.
+Male Voice: (Radio) Roger. Insert an entry plug. Plug locked in place. Connecting UNIT-01.
 
-Male Voice: Plug locked in place.
+Shinji: Mmm. Hm? Uh, what is this stuff? Ooh. Wao-! (Muffled) Mm! Mm!
 
-Male Voice: Connecting UNIT-01.
-
-Shinji: Mmm.
-
-Shinji: Hm?
-
-Shinji: Uh, what is this stuff?
-
-Shinji: Ooh. Wao-! (Muffled) Mm! Mm!
-
-Ritsuko: Don't worry.
-
-Ritsuko: Once your lungs are filled with LCL,
-
-Ritsuko: your blood will be oxygenated directly.
-
-Ritsuko: (Radio) It's okay. You'll get used to it.
+Ritsuko: Don't worry. Once your lungs are filled with LCL, your blood will be oxygenated directly. (Radio) It's okay. You'll get used to it.
 
 Shinji: (Garbled) I'm gonna be sick.
 
@@ -933,15 +619,13 @@ Misato: Stop complaining. You're a boy, you know.
 
 高圧電流 High Voltage
 
-Male Voice: (Radio) Connecting main power.
-
-Male Voice: All circuits transmitting.
+Male Voice: (Radio) Connecting main power. All circuits transmitting.
 
 Female Voice: (Radio) Roger.
 
 Ibuki: (Radio) Connecting secondary contacts.
 
-Wah?
+Shinji: Wah?
 
 Ibuki: A-10 NERV connection normal.
 
@@ -949,43 +633,23 @@ Ritsuko: Configure the language logic interface for Japanese.
 
 Ibuki: All preliminary contacts established. Performance nominal.
 
-Woah.
+Shinji: Woah.
 
-Ibuki: Bi-directional circuits are open.
-
-Ibuki: Synchronization ratio at 41.3%.
+Ibuki: Bi-directional circuits are open. Synchronization ratio at 41.3%.
 
 Ritsuko: Amazing!
 
-Ibuki: Harmonics seem to be normal.
-
-Ibuki: I see no disturbances.
+Ibuki: Harmonics seem to be normal. I see no disturbances.
 
 Ritsuko: Let's do it!
 
 Misato: Mmm! Begin launch sequence!
 
-Male Voice: Beginning launch sequence!
-
-Male Voice: Removing primary lock bolts!
-
-Male Voice: Removal confirmed.
-
-Male Voice: Removing the umbilical bridge.
-
-Male Voice: Removing secondary lock bolts!
+Male Voices: Beginning launch sequence! Removing primary lock bolts! Removal confirmed. Removing the umbilical bridge. Removing secondary lock bolts!
 
 安全 + 第一 Safety First
 
-Male Voice: Removing primary restraints.
-
-Male Voice: Removing secondary restraints.
-
-Male Voice: Releasing safety locks number 1 through 15!
-
-Male Voice: Internal batteries fully charged!
-
-Male Voice: External battery outlet closed!
+Male Voices: Removing primary restraints. Removing secondary restraints. Releasing safety locks number 1 through 15! Internal batteries fully charged! External battery outlet closed!
 
 Ibuki: Roger. Move EVA Unit-01 to the launch pad.
 
@@ -1009,21 +673,13 @@ Misato: EVA launch!
 保ゴ めがね
 Wear safety glasses
 
-Shinji: Ahhh!
-
-Shinji: Woah! Huh. Uh.
+Shinji: Ahhh! Woah! Huh. Uh.
 
 Misato: Shinji, don't get killed out there.
 
 To Be
 
-To Be
-
 Continued
-
-Continued
-
-Claire Littley: Fly me to the moon,
 
 Claire Littley: Fly me to the moon,
 
@@ -1036,8 +692,6 @@ HIDEAKI ANNO
 
 Episode Director
 KAZUYA TSURUMAKI
-
-And let me play among the stars.
 
 And let me play among the stars.
 
@@ -1054,8 +708,6 @@ YURIKO YAMAGUCHI
 
 REI AYANAMI
 MEGUMI HAYASHIBARA
-
-Let me see what spring is like on Jupiter and Mars.
 
 Let me see what spring is like on Jupiter and Mars.
 
@@ -1088,8 +740,6 @@ TAKASHI NAGASAKO
 
 In other words, hold my hand!
 
-In other words, hold my hand!
-
 Animation Director
 SHUNJI SUZUKI
 
@@ -1109,8 +759,6 @@ SHINYA TAKAHASHI
 HIROKI TAKAGI
 YUTAKA HONDA
 KAZUYA KURODA
-
-In other words, darling, kiss me.
 
 In other words, darling, kiss me.
 
@@ -1135,8 +783,6 @@ STUDIO ALGO SHIP
 STUDIO JUNGLE GYM
 MARSA CO., LTD.
 STUDIO DEEN
-
-Fill my heart with song,
 
 Fill my heart with song,
 
@@ -1167,8 +813,6 @@ and let me sing forever more.
 
 You are all I long for, all I worship and adore.
 
-You are all I long for, all I worship and adore.
-
 Background Art
 STUDIO BIHOU
 HIROSHI KATO
@@ -1187,8 +831,6 @@ NAOHISA HAISHIMA
 YUUICHI ONO
 JUNICHI YAITABASHI
 KOUICHI FURUSAWA
-
-In other words, please be true!
 
 In other words, please be true!
 
@@ -1227,8 +869,6 @@ KOZO YONEYAMA
 
 In other words, I love you!
 
-In other words, I love you!
-
 Animation Producers
 
 MOTOKI UEDA
@@ -1244,25 +884,9 @@ NAS
 
 Preview
 
-Preview
-
-Preview
-
-Preview
-
-Misato: The Eva triumphs, but this angel is only the beginning.
-
-Misato: Worried about Shinji's mental state, Misato brashly decides to move him in with her.
-
-Misato: However, Shinji's mind only becomes more shut off from the rest of the world.
-
-Misato: It all happens in the next episode, and I'll be slipping you a little *extra* as well.
+Misato: The Eva triumphs, but this angel is only the beginning. Worried about Shinji's mental state, Misato brashly decides to move him in with her. However, Shinji's mind only becomes more shut off from the rest of the world. It all happens in the next episode, and I'll be slipping you a little *extra* as well.
 
 Next Time
-
-Next Time
-
-Unfamiliar Ceiling
 
 Unfamiliar Ceiling
 
