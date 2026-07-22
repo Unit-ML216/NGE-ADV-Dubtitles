@@ -18,9 +18,9 @@ Video File: ../Aegis/../McBalls Torrents/[McBalls] Neon Genesis Evangelion - S01
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 430
-Active Line: 440
-Video Position: 31557
+Scroll Position: 502
+Active Line: 509
+Video Position: 33612
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,50 +43,51 @@ Style: Top Translation,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.98,0:00:06.61,Bottom Dialog,,0,0,0,,Yoko Takahashi (GeekyFanDubs):\NLike an angel,\Nwho has forsaken sympathy,
-Dialogue: 0,0:00:02.57,0:00:05.86,Top Translation,,0,0,0,,Planning & Original Story\NGAINAX
+Dialogue: 0,0:00:02.57,0:00:06.11,Top Translation,,0,0,0,,Planning & Original Story\NGAINAX
 Dialogue: 0,0:00:06.94,0:00:13.91,Bottom Dialog,Yoko Takahashi (GeekyFanDubs),0,0,0,,rise up young boy and\Nmake yourself a legend!
-Dialogue: 0,0:00:10.11,0:00:13.16,Top Translation,,0,0,0,,Planning\NPROJECT EVA.\NManga published in\NSHONEN ACE\Nfrom\NKADOKAWA SHOTEN\NPUBLISHING CO., LTD.
-Dialogue: 0,0:00:17.08,0:00:22.34,Bottom Dialog,,0,0,0,,エヴァンゲリオン\NEvangerion (Japanese pronunciation)\NOfficial English: Evangelion
-Dialogue: 0,0:00:19.00,0:00:22.34,Top Translation,,0,0,0,,新世紀\NShin Seiki\NLiteral: New Century
+Dialogue: 0,0:00:09.91,0:00:13.49,Top Translation,,0,0,0,,Planning\NPROJECT EVA.\NManga published in\NSHONEN ACE\Nfrom\NKADOKAWA SHOTEN\NPUBLISHING CO., LTD.
+Dialogue: 0,0:00:17.62,0:00:22.29,Bottom Dialog,,0,0,0,,エヴァンゲリオン\NEvangerion (Japanese pronunciation)\NOfficial English: Evangelion
+Dialogue: 0,0:00:19.00,0:00:22.29,Top Translation,,0,0,0,,新世紀\NShin Seiki\NLiteral: New Century
 Dialogue: 0,0:00:22.79,0:00:29.43,Bottom Dialog,Yoko Takahashi (GeekyFanDubs),0,0,0,,Blue skies, and beckoning winds,\Nare trying to open the door of your heart.
 Dialogue: 0,0:00:22.79,0:00:25.51,Top Translation,,0,0,0,,Character Designs\NYOSHIYUKI SADAMOTO\N\NMecha Design\NIKUTO YAMASHITA\N\NHIDEAKI ANNO
 Dialogue: 0,0:00:25.84,0:00:29.13,Top Translation,,0,0,0,,Assistant Director\NMASAYUKI\NKAZUYA TSURUMAKI
 Dialogue: 0,0:00:29.59,0:00:37.26,Bottom Dialog,Yoko Takahashi (GeekyFanDubs),0,0,0,,But you're gazing at me, as if you cannot see.\NYou just stand there smiling vacantly.
-Dialogue: 0,0:00:29.59,0:00:32.93,Top Translation,,850,0,0,,Art Director\NHIROSHI KATO\N\NColoring Design\NHARUMI TAKAHOSHI
+Dialogue: 0,0:00:29.59,0:00:32.89,Top Translation,,850,0,0,,Art Director\NHIROSHI KATO\N\NColoring Design\NHARUMI TAKAHOSHI
 Dialogue: 0,0:00:33.39,0:00:35.18,Top Translation,,0,800,0,,Director of Photography\NYOICHI KURODA\N\N\NSound Director\NHIDEYUKI TANAKA\N\NSound Production\NAUDIO TANAKA
 Dialogue: 0,0:00:37.54,0:00:44.27,Bottom Dialog,Yoko Takahashi (GeekyFanDubs),0,0,0,,Your eyes, hold such innocence.\NYou're blind to the fate that will soon come to pass.
 Dialogue: 0,0:00:41.77,0:00:44.07,Top Translation,,600,0,0,,Music\NSHIROH SAGISU\N\NMusic Cooperation\NTV Tokyo Music
 Dialogue: 0,0:00:44.40,0:00:51.77,Bottom Dialog,Yoko Takahashi (GeekyFanDubs),0,0,0,,But it's summoning you, with a touch like a sigh.\NYou seek it without knowing why.
-Dialogue: 0,0:00:44.52,0:00:47.86,Bottom Dialog,,0,700,260,,Opening Theme\N"A Cruel Angel's Thesis"\N残酷な天使のテーゼ\NZankoku na Tenshi no Tēze\NLiteral: The Thesis of a Cruel Angel\N\N\N\NLyrics: Neko Oikawa\N\NComposition: Hidetoshi Sato\N\NArrangement: Toshiyuki Ohmori\N\NPerformed by: Yoko Takahashi\N\N\N\N(Star Child Records)
-Dialogue: 0,0:00:44.52,0:00:47.86,Bottom Dialog,,600,0,870,,Closing Theme
+Dialogue: 0,0:00:44.52,0:00:47.82,Bottom Dialog,,0,700,260,,Opening Theme\N"A Cruel Angel's Thesis"\N残酷な天使のテーゼ\NZankoku na Tenshi no Tēze\NLiteral: The Thesis of a Cruel Angel\N\N\N\NLyrics: Neko Oikawa\N\NComposition: Hidetoshi Sato\N\NArrangement: Toshiyuki Ohmori\N\NPerformed by: Yoko Takahashi\N\N\N\N(Star Child Records)
+Dialogue: 0,0:00:44.52,0:00:47.82,Bottom Dialog,,600,0,870,,Closing Theme
 Dialogue: 0,0:00:52.09,0:00:58.27,Bottom Dialog,Yoko Takahashi (GeekyFanDubs),0,0,0,,But someday I know that you will be awakened\N and your eyes will finally see,
-Dialogue: 0,0:00:52.24,0:00:53.95,Top Translation,,0,0,0,,Opening Animation\N\NAnimation\NYUTAKA HONDA\NSHINYA HASEGAWA\N\NEpisode Direction\NKAZUYA TSURUMAKI
+Dialogue: 0,0:00:52.28,0:00:53.95,Top Translation,,0,0,0,,Opening Animation\N\NAnimation\NYUTAKA HONDA\NSHINYA HASEGAWA\N\NEpisode Direction\NKAZUYA TSURUMAKI
 Dialogue: 0,0:00:59.65,0:01:06.31,Bottom Dialog,Yoko Takahashi (GeekyFanDubs),0,0,0,,These wings on your back are just waiting to guide you.\NThe future will soon set you free!
 Dialogue: 0,0:00:59.66,0:01:01.37,Top Translation,,0,0,0,,Public Relations\N\NREI ANAMI (TV Tokyo)\NHIROKI SATO (GAINAX)
-Dialogue: 0,0:01:01.54,0:01:03.38,Top Translation,,0,0,0,,Animation Production\N\NTATSUNOKO PRO\NGAINAX
-Dialogue: 0,0:01:03.38,0:01:06.13,Top Translation,,0,0,0,,Producer\N\NNORIKO KOBAYASHI\N(TV TOKYO)\N\NYUTAKA SUGIYAMA
+Dialogue: 0,0:01:01.50,0:01:03.21,Top Translation,,0,0,0,,Animation Production\N\NTATSUNOKO PRO\NGAINAX
+Dialogue: 0,0:01:03.29,0:01:06.13,Top Translation,,0,0,0,,Producer\N\NNORIKO KOBAYASHI\N(TV TOKYO)\N\NYUTAKA SUGIYAMA
 Dialogue: 0,0:01:07.13,0:01:14.35,Bottom Dialog,Yoko Takahashi (GeekyFanDubs),0,0,0,,This cruel thesis, a spiteful angel's litany,\Nwill soon soar from the window of your destiny.
 Dialogue: 0,0:01:14.05,0:01:14.14,Top Translation,,0,0,0,,TOP SECRET\N\NHuman Instrumentality Project\N\NUnited Nations Executive Council\N17th Interim Report\N\NHuman Instrumentality Committee\NFY2015 Operations Plan Summary\N\NSummary Edition
-Dialogue: 0,0:01:14.26,0:01:14.39,Top Translation,,0,0,0,,SAMPLE A-01 ADAM\NWho is Adam? He is living. Why?\N\NCaution.....+42.....
+Dialogue: 0,0:01:14.22,0:01:14.35,Top Translation,,0,0,0,,SAMPLE A-01 ADAM\NWho is Adam? He is living. Why?\N\NCaution.....+42.....
 Dialogue: 0,0:01:14.43,0:01:21.85,Bottom Dialog,Yoko Takahashi (GeekyFanDubs),0,0,0,,White hot pathos, a desecrated symphony,\NStay true to this and don't betray your mem'ry!
 Dialogue: 0,0:01:21.89,0:01:29.57,Bottom Dialog,Yoko Takahashi (GeekyFanDubs),0,0,0,,Come now, reach out. You must embrace reality.\NRise up, young boy, and make yourself a legend!
-Dialogue: 0,0:01:22.10,0:01:23.02,Top Translation,,0,0,0,,Director\N\NHideaki Anno
-Dialogue: 0,0:01:27.73,0:01:29.57,Top Translation,,0,0,0,,Production\NTV TOKYO\NNAS
+Dialogue: 0,0:01:22.02,0:01:23.02,Top Translation,,0,0,0,,Director\N\NHideaki Anno
+Dialogue: 0,0:01:27.65,0:01:29.57,Top Translation,,0,0,0,,Production\NTV TOKYO\NNAS
 Dialogue: 1,0:01:30.40,0:01:32.78,TS,,0,0,0,,{\fnIwata Mincho Old Pro-Fate B\c&HDFD4D8&\3c&HDFD4D8&\bord0.3\blur0.8\fs112.5\b1\pos(720,446.501)\fscx118\fscy149}The year is 2015 A.D.
 Dialogue: 0,0:01:30.40,0:01:32.78,TS,,0,0,0,,{\fnIwata Mincho Old Pro-Fate B\c&HDFD4D8&\fs112.5\bord1.6\blur1.8\1a&HFF&\3c&H8A8186&\b1\be2\pos(720,446.501)\fscx118\fscy149}The year is 2015 A.D.
+Dialogue: 0,0:01:46.63,0:02:03.94,Bottom Dialog,,0,0,0,,[Cicadas droning]
 Dialogue: 0,0:01:54.90,0:01:56.48,Bottom Dialog,Male Voice,0,0,0,,May I have your attention.
 Dialogue: 0,0:01:56.49,0:02:04.38,Bottom Dialog,Male Voice,0,0,0,,As of 12.30 p.m. today, a special state of emergency has been declared for the Kanto and Chubu region surrounding the Tokai district.
 Dialogue: 0,0:02:04.56,0:02:07.78,Bottom Dialog,Male Voice,0,0,0,,All residents must evacuate to their designated shelters immediately.
-Dialogue: 0,0:02:07.90,0:02:10.86,Top Translation,,0,0,0,,Rairaiken (restaurant)
+Dialogue: 0,0:02:07.82,0:02:10.65,Top Translation,,0,0,0,,来々軒 Rairaiken (a restaurant)
 Dialogue: 0,0:02:08.38,0:02:17.01,Bottom Dialog,Male Voice,0,0,0,,Repeat. As of 12.30 p.m. today, a state of emergency has been declared for the Kanto and Chubu regions surrounding the Tokai district.
 Dialogue: 1,0:02:11.65,0:02:14.07,TS,,0,0,0,,{\fax0.4\blur1.4\fnAvantGarde Bk BT Eclipse\bord0.3\3c&HD7CAAC&\c&HD7CAAC&\pos(912.001,213.001)\frz318.1\frx26\fry38}All {\fax0.3}Lines {\fax0.1}Stop{\fax0.05}p{\fax0.05}e{\fax-0.15}d
 Dialogue: 0,0:02:11.65,0:02:14.07,TS,,0,0,0,,{\fax0.4\fnAvantGarde Bk BT Eclipse\blur1.8\c&HD7CAAC&\bord2.5\3c&H121D2E&\pos(912.001,213.001)\frz318.1\frx26\fry38}All {\fax0.3}Lines {\fax0.1}Stop{\fax0.05}p{\fax0.05}e{\fax-0.15}d
 Dialogue: 0,0:02:17.46,0:02:20.70,Bottom Dialog,Male Voice,0,0,0,,All residents must evacuate to their shelters immediately.
-Dialogue: 0,0:02:20.74,0:02:25.36,Bottom Dialog,Misato,0,0,0,,Misato: Damn! Why did I have to lose him at a time like this? Why now?
+Dialogue: 0,0:02:20.74,0:02:26.56,Bottom Dialog,Misato,0,0,0,,Misato: Damn! Why did I have to lose him at a time like this? Why now? (Sigh)
 Dialogue: 1,0:02:26.17,0:02:28.75,TS,,0,0,0,,{\fnCandela Book\be1\blur0.5\c&H0E302F&\frz355\pos(275.3,974.425)}lkari Shinji
 Dialogue: 0,0:02:26.17,0:02:28.75,TS,,0,0,0,,{\fnCandela Book\blur0.8\c&H0E302F&\xshad-6\4c&H949C87&\blur0.938\frz355\pos(275.3,974.425)}lkari Shinji
 Dialogue: 0,0:02:27.08,0:02:33.76,Bottom Dialog,Female Voice:,0,0,0,,We're sorry. Due to the state of special emergency, no lines are currently available. This is a recording.
-Dialogue: 0,0:02:33.76,0:02:40.11,Bottom Dialog,Shinji:,0,0,0,,Ugh. It's no use. This is dumb! I shouldn't have come here. Ahh!
+Dialogue: 0,0:02:33.76,0:02:40.11,Bottom Dialog,,0,0,0,,Shinji: Ugh. It's no use. This is dumb! I shouldn't have come here. Ahh!
 Dialogue: 1,0:02:42.85,0:02:45.27,TS,,0,0,0,,{\alpha&H30\an4\bord1\fnLEHN015\fs65\b1\3c&H1F0C0F&\c&H1F0C0F&\iclip(m 219 786 b 269 711 313 542 148 575)\frz11.91\pos(266.999,760.999)}To Shinji
 Dialogue: 1,0:02:42.85,0:02:45.27,TS,,0,0,0,,{\alpha&H30\an4\bord1\fnLEHN015\fs65\b1\3c&H1F0C0F&\c&H1F0C0F&\iclip(m 219 786 b 269 711 313 542 148 575)\frz11.91\pos(226.999,818.999)}I'll be coming
 Dialogue: 1,0:02:42.85,0:02:45.27,TS,,0,0,0,,{\alpha&H30\an4\bord1\fnLEHN015\fs65\b1\3c&H1F0C0F&\c&H1F0C0F&\iclip(m 219 786 b 269 711 313 542 148 575)\frz11.91\pos(374.999,844.999)}to get you,
@@ -101,13 +102,13 @@ Dialogue: 0,0:02:42.85,0:02:45.27,TS,,0,0,0,,{\alpha&H50\an4\fnLEHN015\fs65\b1\c
 Dialogue: 0,0:02:42.85,0:02:45.27,TS,,0,0,0,,{\alpha&H50\an4\fnLEHN015\fs65\b1\c&H1F0C0F&\bord1.8\3c&H1F0C0F&\iclip(m 219 786 b 269 711 313 542 148 575)\frz6.964\pos(178.999,542.999)}Attention
 Dialogue: 0,0:02:42.85,0:02:45.27,TS,,0,0,0,,{\alpha&H50\an4\fnLEHN015\fs65\b1\c&H1F0C0F&\bord1.8\3c&H1F0C0F&\iclip(m 219 786 b 269 711 313 542 148 575)\frz359.6\pos(376.999,518.999)}here
 Dialogue: 0,0:02:42.85,0:02:45.27,TS,,0,0,0,,{\alpha&H50\an4\fnLEHN015\fs65\b1\c&H1F0C0F&\bord1.8\3c&H1F0C0F&\iclip(m 219 786 b 269 711 313 542 148 575)\frz345.3\pos(468.999,518.999)}please!
-Dialogue: 0,0:02:43.06,0:02:45.27,Bottom Dialog,Shinji,0,0,0,,I guess we won't be meeting here.
-Dialogue: 0,0:02:46.36,0:02:49.04,Bottom Dialog,Shinji,0,0,0,,Maybe I should, find a shelter.
+Dialogue: 0,0:02:43.06,0:02:45.27,Bottom Dialog,,0,0,0,,Shinji: I guess we won't be meeting here.
+Dialogue: 0,0:02:46.36,0:02:49.04,Bottom Dialog,,0,0,0,,Shinji: Maybe I should, find a shelter.
 Dialogue: 0,0:02:49.17,0:02:49.93,Bottom Dialog,,0,0,0,,Shinji: Huh?
 Dialogue: 0,0:02:56.03,0:02:57.08,Bottom Dialog,,0,0,0,,Shinji: Woah!
-Dialogue: 0,0:02:58.24,0:03:01.21,Top Translation,,0,0,0,,Friend Bank     Sōunzan Transport
+Dialogue: 0,0:02:58.24,0:03:01.21,Top Translation,,0,0,0,,友銀行 Friend Bank     早雲山運送 Sōunzan Transport
 Dialogue: 0,0:03:01.21,0:03:04.21,Bottom Dialog,,0,0,0,,Shinji: Hhh. Ahh. Ohh. Huh?
-Dialogue: 0,0:03:12.75,0:03:14.60,Top Translation,,0,0,0,,Shinji: Ohh.
+Dialogue: 0,0:03:12.75,0:03:14.60,Bottom Dialog,,0,0,0,,Shinji: Ohh.
 Dialogue: 1,0:03:14.63,0:03:18.55,TS,,0,0,0,,{\fs45\b1\be1\blur1.5\3c&HD3C5CD&\bord0.4\c&HD3C5CD&\fscx86\fscy107\pos(1243.726,1064.75)}Estimated Path
 Dialogue: 0,0:03:14.63,0:03:18.55,TS,,0,0,0,,{\fs45\b1\be1\blur2\1a&HFF\c&HD0C3D5&\3c&H3A3E4C&\bord1.5\fscx86\fscy107\pos(1243.726,1064.75)}Estimated Path
 Dialogue: 0,0:03:15.02,0:03:17.51,Bottom Dialog,,0,0,150,,Female Voice: Unidentified intruder is still coming towards us.
@@ -126,7 +127,7 @@ Dialogue: 0,0:03:42.32,0:03:44.37,Bottom Dialog,,0,0,0,,Male Voice: Every single
 Dialogue: 0,0:03:45.11,0:03:49.12,Bottom Dialog,,0,0,0,,Male Voice: No! Ahh!
 Dialogue: 0,0:03:49.12,0:03:51.87,Bottom Dialog,,0,0,0,,Shinji: Ah! Oh. Uh. Uh!
 Dialogue: 0,0:03:53.44,0:03:56.44,Bottom Dialog,,0,0,0,,Shinji: Ahh! Oh. Hh. Hh.
-Dialogue: 0,0:03:56.44,0:03:59.91,Bottom Dialog,,0,0,0,,Shinji: Uh. Ahh! Oh. 
+Dialogue: 0,0:03:56.44,0:03:59.91,Bottom Dialog,,0,0,0,,Shinji: Uh. Ahh! Oh.
 Dialogue: 0,0:03:59.91,0:04:01.98,Bottom Dialog,,0,0,0,,Shinji: Uh. Uh.
 Dialogue: 0,0:04:01.98,0:04:04.88,Bottom Dialog,,0,0,0,,Misato: Sorry! Get in! Am I real late?
 Dialogue: 0,0:04:16.07,0:04:21.85,Bottom Dialog,,0,0,0,,Shinji: Eh. Oh. Ah! Hh. Ohh! Oh. Ahh!
@@ -145,11 +146,12 @@ Dialogue: 0,0:05:19.84,0:05:22.38,Bottom Dialog,,0,0,0,,Misato: No! They're gonn
 Dialogue: 0,0:05:22.50,0:05:23.55,Bottom Dialog,,0,0,0,,Misato: Get down!
 Dialogue: 0,0:05:23.60,0:05:24.35,Bottom Dialog,,0,0,0,,Shinji: (Muffled).
 Dialogue: 0,0:05:35.75,0:05:38.23,Bottom Dialog,,0,0,0,,Both: Ooh. Ow! Oh!
-Dialogue: 0,0:05:38.23,0:05:40.07,Bottom Dialog,,0,0,0,,Both: Oh! Ow!
+Dialogue: 0,0:05:38.23,0:05:39.85,Bottom Dialog,,0,0,0,,Both: Oh! Ow!
 Dialogue: 0,0:05:44.17,0:05:46.35,Bottom Dialog,,0,0,0,,Both: Ohhh.
 Dialogue: 0,0:05:46.35,0:05:48.28,Bottom Dialog,,0,0,0,,Generals: Yeah! We did it! Alright!
 Dialogue: 0,0:05:48.30,0:05:51.56,Bottom Dialog,,0,0,0,,Generals: Well, Ikari, it looks like you won't be getting a shot at it.
 Dialogue: 0,0:05:52.38,0:05:53.94,Bottom Dialog,,0,0,0,,Female Voice: Shockwave approaching.
+Dialogue: 0,0:05:54.89,0:05:55.67,Bottom Dialog,,0,0,0,,Shinji: Coughs
 Dialogue: 0,0:05:55.90,0:05:56.72,Bottom Dialog,,0,0,0,,Misato: Are you all right?
 Dialogue: 0,0:05:56.64,0:05:57.01,Bottom Dialog,,0,0,0,,Shinji: Yeah.
 Dialogue: 0,0:05:57.76,0:05:59.46,Bottom Dialog,,0,0,0,,Shinji: But my mouth is full of dirt. Puh.
@@ -157,8 +159,10 @@ Dialogue: 0,0:05:59.70,0:06:01.73,Bottom Dialog,,0,0,0,,Misato: You'll be all ri
 Dialogue: 0,0:06:02.41,0:06:03.70,Bottom Dialog,,0,0,0,,Misato: Ready to push?
 Dialogue: 0,0:06:04.66,0:06:05.61,Bottom Dialog,,0,0,0,,Misato: Go!
 Dialogue: 0,0:06:07.42,0:06:08.15,Bottom Dialog,,0,0,0,,Misato: Push!
+Dialogue: 0,0:06:08.20,0:06:09.39,Bottom Dialog,,0,0,0,,Shinji: Err!
+Dialogue: 0,0:06:09.39,0:06:11.00,Bottom Dialog,,0,0,0,,Misato: Giyah!
 Dialogue: 0,0:06:11.00,0:06:11.77,Bottom Dialog,,0,0,0,,Misato: Yeah!
-Dialogue: 0,0:06:14.52,0:06:16.55,Bottom Dialog,,0,0,0,,Misato: Thanks, Shinji. You're pretty useful.
+Dialogue: 0,0:06:13.13,0:06:16.55,Bottom Dialog,,0,0,0,,Misato: Hah! Thanks, Shinji. You're pretty useful.
 Dialogue: 0,0:06:16.85,0:06:19.71,Bottom Dialog,,0,0,0,,Shinji: Thank you, but I should thank you, Miss Katsuragi.
 Dialogue: 0,0:06:19.82,0:06:21.52,Bottom Dialog,,0,0,0,,Misato: Uh, Misato is fine.
 Dialogue: 0,0:06:22.56,0:06:25.64,Bottom Dialog,,0,0,0,,Misato: So, Shinji Ikari, we meet at last.
@@ -175,7 +179,7 @@ Dialogue: 0,0:06:46.37,0:06:48.20,Bottom Dialog,,0,0,0,,Generals: That was our l
 Dialogue: 0,0:06:49.60,0:06:51.45,Bottom Dialog,,0,0,0,,Generals: No effect at all.
 Dialogue: 0,0:06:51.57,0:06:52.85,Bottom Dialog,,0,0,0,,Generals: It's a demon!
 Dialogue: 0,0:07:01.21,0:07:03.08,Bottom Dialog,,0,0,0,,Misato: Yes, don't worry.
-Dialogue: 0,0:07:03.02,0:07:05.23,Bottom Dialog,,0,0,0,,Misato: His safety is my top priority.
+Dialogue: 0,0:07:03.11,0:07:05.23,Bottom Dialog,,0,0,0,,Misato: His safety is my top priority.
 Dialogue: 0,0:07:05.70,0:07:07.72,Bottom Dialog,,0,0,0,,Misato: Look, can you get a car train ready for us?
 Dialogue: 0,0:07:07.90,0:07:09.20,Bottom Dialog,,0,0,0,,Misato: An express, of course.
 Dialogue: 0,0:07:11.48,0:07:15.97,Bottom Dialog,,0,0,0,,Misato: Well, I did volunteer to pick him up, so it's only my duty to make sure he gets there.
@@ -192,7 +196,7 @@ Dialogue: 0,0:07:43.75,0:07:46.37,Bottom Dialog,,0,0,0,,Misato: Uh, don't worry 
 Dialogue: 0,0:07:46.47,0:07:49.85,Bottom Dialog,,0,0,0,,Misato: Uh, it's an emergency and we needed a working car, right? Heh!
 Dialogue: 0,0:07:49.89,0:07:54.42,Bottom Dialog,,0,0,0,,Misato: Uh, I am a government official after all, so, everything's gonna be perfectly fine, okay?
 Dialogue: 0,0:07:54.82,0:07:55.37,Bottom Dialog,,0,0,0,,Misato: Okay.
-Dialogue: 0,0:07:56.34,0:07:58.67,Bottom Dialog,,0,0,0,,Shinji: I don't think anyone will buy that excuse.
+Dialogue: 0,0:07:55.40,0:07:58.67,Bottom Dialog,,0,0,0,,Shinji: Mm. I don't think anyone will buy that excuse.
 Dialogue: 0,0:07:59.22,0:08:00.43,Bottom Dialog,,0,0,0,,Misato: You're no fun.
 Dialogue: 0,0:08:00.90,0:08:03.56,Bottom Dialog,,0,0,0,,Misato: You know, you're not as cute as I thought you were.
 Dialogue: 0,0:08:03.57,0:08:05.02,Bottom Dialog,,0,0,0,,Shinji: Hmph. Is that so?
@@ -255,8 +259,8 @@ Dialogue: 0,0:10:52.51,0:10:53.55,Bottom Dialog,,0,0,0,,Misato: NERV Central.
 Dialogue: 0,0:10:54.08,0:10:56.45,Bottom Dialog,,0,0,0,,Misato: This city is the key to rebuilding our world.
 Dialogue: 0,0:10:56.84,0:10:58.56,Bottom Dialog,,0,0,0,,Misato: A fortress for all mankind.
 Dialogue: 0,0:10:58.56,0:11:01.56,Bottom Dialog,,0,0,0,,
-Dialogue: 0,0:10:59.93,0:11:01.35,Top Translation,,0,0,0,,エヴァンゲリオン\NEvangerion (Japanese pronunciation)\NOfficial English: Evangelion
-Dialogue: 0,0:10:59.93,0:11:01.35,Bottom Dialog,,0,0,0,,新世紀\NShin Seiki\NLiteral: New Century
+Dialogue: 0,0:10:59.76,0:11:01.27,Top Translation,,0,0,0,,エヴァンゲリオン\NEvangerion (Japanese pronunciation)\NOfficial English: Evangelion
+Dialogue: 0,0:10:59.76,0:11:01.27,Bottom Dialog,,0,0,0,,新世紀\NShin Seiki\NLiteral: New Century
 Dialogue: 0,0:11:01.56,0:11:04.56,Bottom Dialog,,0,0,0,,
 Dialogue: 0,0:11:04.92,0:11:09.06,Bottom Dialog,,0,0,0,,Misato: (Sigh) What on Earth? Isn't this the right way?
 Dialogue: 1,0:11:07.10,0:11:08.60,TS,,0,0,0,,{\fax-0.1\b0\fs37.501\c&H27313F&\fnCambria\i1\pos(299.373,190.874)}Nerv Headquarters
@@ -303,14 +307,16 @@ Dialogue: 0,0:11:16.20,0:11:18.16,Bottom Dialog,,0,0,0,,Misato: I wonder where i
 Dialogue: 0,0:11:18.76,0:11:21.40,Bottom Dialog,,0,0,0,,Misato: I'm sorry. I'm not used to this place.
 Dialogue: 0,0:11:21.89,0:11:24.12,Bottom Dialog,,0,0,0,,Shinji: We passed this spot twice already.
 Dialogue: 0,0:11:24.00,0:11:29.08,Bottom Dialog,,0,0,0,,Misato: Rrr. Well don't worry about it! They make those transit things to be used you know!
-Dialogue: 0,0:11:29.93,0:11:41.01,Bottom Dialog,,0,0,0,,Female Voice: Would the chairperson of E Project, TechnIcal Division 1, Dr Ritsuko Akagi, please contact, Captain Misato Katsuragi, of Operations Division 1, immediately.
+Dialogue: 0,0:11:29.93,0:11:41.01,Bottom Dialog,,0,0,0,,Female Voice: Would the chairperson of E Project, Technical Division 1, Dr Ritsuko Akagi, please contact, Captain Misato Katsuragi, of Operations Division 1, immediately.
 Dialogue: 1,0:11:34.42,0:11:37.55,TS,,0,0,0,,{\frx340\fry36\frz9.65\move(1280,961.875,1401.251,961.875,24,3110)\c&H030207&\fnArnold 2.1}Air
 Dialogue: 0,0:11:34.42,0:11:37.55,TS,,0,0,0,,{\frx340\fry36\frz9.65\move(1280,961.875,1401.251,961.875,24,3110)\bord1.7\3c&H183039&\c&H030207&\blur0.4\fnArnold 2.1}Air
 Dialogue: 0,0:11:39.33,0:11:42.32,Bottom Dialog,,0,0,0,,Ritsuko: I don't believe it. Is she lost again?
+Dialogue: 0,0:11:42.31,0:11:44.01,Top Translation,,0,0,0,,ここは  です This is
 Dialogue: 0,0:11:46.04,0:11:48.75,Bottom Dialog,,0,0,0,,Misato: Uh, hi there, Ritsuko.
 Dialogue: 0,0:11:49.42,0:11:50.16,Bottom Dialog,,0,0,0,,Ritsuko: Hmm.
+Dialogue: 0,0:11:50.12,0:11:51.04,Bottom Dialog,,0,0,0,,Misato: Uh, ugh.
 Dialogue: 0,0:11:53.71,0:11:56.11,Bottom Dialog,,0,0,0,,Ritsuko: Why are you wasting my time, *Captain*?
-Dialogue: 0,0:11:56.21,0:11:58.91,Bottom Dialog,,0,0,0,,Ritsuko: Don't you know we're short on time and manpower?
+Dialogue: 0,0:11:56.21,0:11:58.91,Bottom Dialog,,0,0,0,,Ritsuko: Don't you know we're short on time *and* manpower?
 Dialogue: 0,0:11:58.92,0:11:59.75,Bottom Dialog,,0,0,0,,Misato: Eheh, Sorry.
 Dialogue: 0,0:12:03.41,0:12:04.72,Bottom Dialog,,0,0,0,,Ritsuko: So, is this the boy?
 Dialogue: 0,0:12:04.92,0:12:08.99,Bottom Dialog,,0,0,0,,Misato: Uhh, right. According to the Marduk report, he's the third child.
@@ -335,7 +341,8 @@ Dialogue: 0,0:12:55.95,0:12:58.17,Bottom Dialog,,0,0,0,,Ritsuko: Around here we 
 Dialogue: 0,0:12:58.22,0:13:00.08,Bottom Dialog,,0,0,0,,Misato: Does that mean it doesn't work?
 Dialogue: 0,0:13:00.09,0:13:04.19,Bottom Dialog,,0,0,0,,Ritsuko: Don't be insulting. It's 09 as in Oni, a Japanese devil.
 Dialogue: 0,0:13:04.26,0:13:05.00,Bottom Dialog,,0,0,0,,Shinji: Huh.
-Dialogue: 0,0:13:05.59,0:13:10.23,Bottom Dialog,,0,0,0,,Misato: Well, anyway, I suppose it's a bit late to be saying sorry it doesn't work.
+Dialogue: 0,0:13:05.59,0:13:10.23,Bottom Dialog,,0,0,0,,Misato: Well, anyway! I suppose it's a bit late to be saying, "Sorry it doesn't work."
+Dialogue: 0,0:13:16.36,0:13:16.53,Top Translation,,0,0,0,,左 Left
 Dialogue: 0,0:13:19.83,0:13:22.63,Bottom Dialog,,0,0,0,,Shinji: Hey! Uh. Eh. Why is it so dark in here?
 Dialogue: 0,0:13:22.65,0:13:25.48,Bottom Dialog,,0,0,0,,Shinji: Wuh? Agh! Uh. Ooh.
 Dialogue: 0,0:13:25.85,0:13:30.83,Bottom Dialog,,0,0,0,,Shinji: Oh! It's a face! A giant robot! Oh.
@@ -348,6 +355,7 @@ Dialogue: 0,0:13:41.40,0:13:42.88,Bottom Dialog,,0,0,0,,Ritsuko: Built here in s
 Dialogue: 0,0:13:43.18,0:13:45.05,Bottom Dialog,,0,0,0,,Ritsuko: It is mankind's last hope.
 Dialogue: 0,0:13:47.14,0:13:48.84,Bottom Dialog,,0,0,0,,Shinji: Is this my father's work?
 Dialogue: 0,0:13:49.14,0:13:49.99,Bottom Dialog,,0,0,0,,Gendo: Correct.
+Dialogue: 0,0:13:49.99,0:13:50.71,Bottom Dialog,,0,0,0,,Shinji: Oh!
 Dialogue: 0,0:13:51.76,0:13:53.36,Bottom Dialog,,0,0,0,,Gendo: It's been a while.
 Dialogue: 0,0:13:54.78,0:13:55.59,Bottom Dialog,,0,0,0,,Shinji: Father...
 Dialogue: 0,0:13:56.93,0:13:59.71,Bottom Dialog,,0,0,0,,Gendo: Hph. We're moving out.
@@ -389,6 +397,7 @@ Dialogue: 0,0:15:29.02,0:15:35.91,Bottom Dialog,,0,0,0,,Shinji: But still! There
 Dialogue: 0,0:15:36.89,0:15:42.41,Bottom Dialog,,0,0,0,,Gendo: If you're going to do it, do it now. If not, then leave.
 Dialogue: 0,0:15:51.86,0:15:54.08,Bottom Dialog,,0,0,0,,Gendo: It's close. It must sense us.
 Dialogue: 0,0:15:57.76,0:16:00.08,Bottom Dialog,,0,0,0,,Ritsuko: Shinji, we don't have much time.
+Dialogue: 0,0:16:03.73,0:16:04.92,Bottom Dialog,,0,0,0,,Shinji: Uh?
 Dialogue: 0,0:16:04.92,0:16:05.89,Bottom Dialog,,0,0,0,,Misato: Get inside.
 Dialogue: 0,0:16:06.96,0:16:09.99,Bottom Dialog,,0,0,0,,Shinji: This is all wrong. I came all this way.
 Dialogue: 0,0:16:10.48,0:16:12.20,Bottom Dialog,,0,0,0,,Shinji: Awh, why did I come?
@@ -432,6 +441,7 @@ Dialogue: 0,0:18:26.76,0:18:31.89,Bottom Dialog,,0,0,0,,Shiji: Huh? Ohh. Mmm.
 Dialogue: 0,0:18:31.91,0:18:37.85,Bottom Dialog,,0,0,0,,Shinji: I mustn't run away. I mustn't run away. I mustn't run away. I mustn't run away. I mustn't *run away*!
 Dialogue: 0,0:18:39.40,0:18:42.15,Bottom Dialog,,0,0,0,,Shinji: I'll do it! I'll pilot it!
 Dialogue: 0,0:18:44.96,0:18:46.96,Bottom Dialog,,0,0,0,,Male Voice: (Radio) Cooling process completed.
+Dialogue: 0,0:18:45.06,0:18:48.81,Top Translation,,0,0,0,,Left
 Dialogue: 0,0:18:46.99,0:18:48.68,Bottom Dialog,,0,0,0,,Male Voice: Right arm repairs completed.
 Dialogue: 0,0:18:48.71,0:18:50.65,Bottom Dialog,,0,0,0,,Male Voice: Cage now in position for docking.
 Dialogue: 0,0:18:51.56,0:18:54.37,Bottom Dialog,,0,0,0,,Ibuki: Signal plug terminator now being ejected.
@@ -448,6 +458,7 @@ Dialogue: 0,0:19:24.12,0:19:26.65,Bottom Dialog,,0,0,0,,Ritsuko: your blood will
 Dialogue: 0,0:19:26.92,0:19:28.96,Bottom Dialog,,0,0,0,,Ritsuko: (Radio) It's okay. You'll get used to it.
 Dialogue: 0,0:19:31.20,0:19:32.62,Bottom Dialog,,0,0,0,,Shinji: (Garbled) I'm gonna be sick.
 Dialogue: 0,0:19:33.18,0:19:35.32,Bottom Dialog,,0,0,0,,Misato: Stop complaining. You're a boy, you know.
+Dialogue: 0,0:19:36.45,0:19:40.16,Top Translation,,0,0,0,,高圧電流 High Voltage
 Dialogue: 0,0:19:36.64,0:19:38.32,Bottom Dialog,,0,0,0,,Male Voice: (Radio) Connecting main power.
 Dialogue: 0,0:19:38.81,0:19:40.24,Bottom Dialog,,0,0,0,,Male Voice: All circuits transmitting.
 Dialogue: 0,0:19:40.26,0:19:41.32,Bottom Dialog,,0,0,0,,Female Voice: (Radio) Roger.
@@ -465,22 +476,26 @@ Dialogue: 0,0:20:04.50,0:20:06.04,Bottom Dialog,,0,0,0,,Ibuki: I see no disturba
 Dialogue: 0,0:20:06.60,0:20:07.68,Bottom Dialog,,0,0,0,,Ritsuko: Let's do it!
 Dialogue: 0,0:20:07.67,0:20:10.61,Bottom Dialog,,0,0,0,,Misato: Mmm! Begin launch sequence!
 Dialogue: 0,0:20:10.76,0:20:12.59,Bottom Dialog,,0,0,0,,Male Voice: Beginning launch sequence!
-Dialogue: 0,0:20:14.70,0:20:16.68,Bottom Dialog,,0,0,0,,Male Voice: Removing primary lock bolts.
+Dialogue: 0,0:20:14.70,0:20:16.68,Bottom Dialog,,0,0,0,,Male Voice: Removing primary lock bolts!
 Dialogue: 0,0:20:16.80,0:20:18.12,Bottom Dialog,,0,0,0,,Male Voice: Removal confirmed.
 Dialogue: 0,0:20:18.84,0:20:20.61,Bottom Dialog,,0,0,0,,Male Voice: Removing the umbilical bridge.
-Dialogue: 0,0:20:23.82,0:20:25.67,Bottom Dialog,,0,0,0,,Male Voice: Removing secondary lock bolts!
+Dialogue: 0,0:20:23.81,0:20:25.47,Bottom Dialog,,0,0,0,,Male Voice: Removing secondary lock bolts!
+Dialogue: 0,0:20:26.09,0:20:28.58,Top Translation,,0,0,0,,安全 + 第一 Safety First
 Dialogue: 0,0:20:26.10,0:20:27.98,Bottom Dialog,,0,0,0,,Male Voice: Removing primary restraints.
 Dialogue: 0,0:20:30.52,0:20:32.46,Bottom Dialog,,0,0,0,,Male Voice: Removing secondary restraints.
 Dialogue: 0,0:20:35.07,0:20:38.01,Bottom Dialog,,0,0,0,,Male Voice: Releasing safety locks number 1 through 15!
 Dialogue: 0,0:20:39.04,0:20:41.35,Bottom Dialog,,0,0,0,,Male Voice: Internal batteries fully charged!
 Dialogue: 0,0:20:42.39,0:20:44.57,Bottom Dialog,,0,0,0,,Male Voice: External battery outlet closed!
 Dialogue: 0,0:20:44.81,0:20:47.60,Bottom Dialog,,0,0,0,,Ibuki: Roger. Move EVA Unit-01 to the launch pad.
+Dialogue: 0,0:20:58.13,0:20:59.48,Top Translation,,0,0,0,,危険 Danger     保ゴ めがね Wear safety glasses
 Dialogue: 0,0:21:03.24,0:21:05.25,Bottom Dialog,,0,0,0,,Ibuki: Launch path clear. All systems green.
 Dialogue: 0,0:21:05.41,0:21:07.93,Bottom Dialog,,0,0,0,,Ritsuko: Evangelion, ready for launch!
 Dialogue: 0,0:21:08.03,0:21:10.99,Bottom Dialog,,0,0,0,,Misato: Understood! Can we really do this?
 Dialogue: 0,0:21:11.00,0:21:16.33,Bottom Dialog,,0,0,0,,Gendo: Of course. Unless we defeat the Angels, we have no future.
 Dialogue: 0,0:21:16.99,0:21:19.71,Bottom Dialog,,0,0,0,,Fuyutsuki: Ikari, are you absolutely certain?
+Dialogue: 0,0:21:20.49,0:21:21.42,Bottom Dialog,,0,0,0,,Gendo: Heh.
 Dialogue: 0,0:21:21.42,0:21:22.52,Bottom Dialog,,0,0,0,,Misato: EVA launch!
+Dialogue: 0,0:21:22.47,0:21:23.09,Top Translation,,0,0,0,,危険 Danger\N保ゴ めがね\NWear safety glasses
 Dialogue: 0,0:21:23.13,0:21:24.57,Bottom Dialog,,0,0,0,,Shinji: Ahhh!
 Dialogue: 0,0:21:49.40,0:21:52.92,Bottom Dialog,,0,0,0,,Shinji: Woah! Huh. Uh.
 Dialogue: 0,0:21:56.78,0:21:58.80,Bottom Dialog,,0,0,0,,Misato: Shinji, don't get killed out there.
@@ -493,37 +508,37 @@ Dialogue: 0,0:22:00.61,0:22:03.62,ED/E,Claire Littley,0,0,0,,{\fad(690,300)\blur
 Dialogue: 0,0:22:02.05,0:22:05.76,Top Translation,,0,0,0,,Script\NHIDEAKI ANNO\N\NStoryboard\NYUKI MASAMI\NHIDEAKI ANNO\N\NEpisode Director\NKAZUYA TSURUMAKI
 Dialogue: 1,0:22:03.62,0:22:08.83,ED/E,Claire Littley,0,0,0,,{\fad(300,2000)\blur1}And let me play among the stars.
 Dialogue: 0,0:22:03.62,0:22:08.83,ED/E,Claire Littley,0,0,0,,{\fad(300,2000)\blur1}And let me play among the stars.
-Dialogue: 0,0:22:05.93,0:22:09.77,Top Translation,,0,0,0,,CAST\N\NSHINJI IKARI\NMEGUMI OGATA\N\NMISATO KATSURAGI\NKOTONO MITSUISHI\N\NRITSUKO AKAGI\NYURIKO YAMAGUCHI\N\NREI AYANAMI\NMEGUMI HAYASHIBARA
+Dialogue: 0,0:22:06.01,0:22:09.77,Top Translation,,0,0,0,,CAST\N\NSHINJI IKARI\NMEGUMI OGATA\N\NMISATO KATSURAGI\NKOTONO MITSUISHI\N\NRITSUKO AKAGI\NYURIKO YAMAGUCHI\N\NREI AYANAMI\NMEGUMI HAYASHIBARA
 Dialogue: 1,0:22:09.30,0:22:16.69,ED/E,Claire Littley,0,0,0,,{\fad(300,2000)\blur1}Let me see what spring is like on Jupiter and Mars.
 Dialogue: 0,0:22:09.30,0:22:16.69,ED/E,Claire Littley,0,0,0,,{\fad(300,2000)\blur1}Let me see what spring is like on Jupiter and Mars.
 Dialogue: 0,0:22:10.02,0:22:13.77,Top Translation,,0,0,0,,CAST\N\NGENDO IKARI\NFUMIHIKO TACHIKI\N\NKOZO FUYUTSUKI\NMOTOMU KIYOKAWA\N\NMAKOTO HYUGA\NYUU ASAKAWA\N\NMAYA IBUKI\NMIKI NAGASAWA
-Dialogue: 0,0:22:14.02,0:22:17.77,Top Translation,,0,0,0,,CAST\N\NSHIGERU AOBA\NTAKEHITO KOYASU\N\NMILITARY PERSONNEL\NTOMOMICHI NISHIMURA\NHIDENARI UGAKI\NHIROSHI NAKA\N\NAKIKO HIRAMATSU\NTAKASHI NAGASAKO
+Dialogue: 0,0:22:13.98,0:22:17.77,Top Translation,,0,0,0,,CAST\N\NSHIGERU AOBA\NTAKEHITO KOYASU\N\NMILITARY PERSONNEL\NTOMOMICHI NISHIMURA\NHIDENARI UGAKI\NHIROSHI NAKA\N\NAKIKO HIRAMATSU\NTAKASHI NAGASAKO
 Dialogue: 1,0:22:16.69,0:22:24.06,ED/E,Claire Littley,0,0,0,,{\fad(500,2300)\blur1}In other words, hold my hand!
 Dialogue: 0,0:22:16.69,0:22:24.06,ED/E,Claire Littley,0,0,0,,{\fad(500,2300)\blur1}In other words, hold my hand!
-Dialogue: 0,0:22:18.02,0:22:21.84,Top Translation,,0,0,0,,Animation Director\NSHUNJI SUZUKI\N\NSetting Assistance\NYOSHITOO ASARI\NSEIJI KIO\NISAMU IMAGAKE\N\NEnding Animation\NYUKI MASAMI
-Dialogue: 0,0:22:21.92,0:22:25.87,Top Translation,,0,0,0,,Key Animation\N\NMITSUO ISO\NKATSUICHI NAKAYAMA\NSHINYA TAKAHASHI\NHIROKI TAKAGI\NYUTAKA HONDA\NKAZUYA KURODA
+Dialogue: 0,0:22:18.02,0:22:21.78,Top Translation,,0,0,0,,Animation Director\NSHUNJI SUZUKI\N\NSetting Assistance\NYOSHITOO ASARI\NSEIJI KIO\NISAMU IMAGAKE\N\NEnding Animation\NYUKI MASAMI
+Dialogue: 0,0:22:22.03,0:22:25.82,Top Translation,,0,0,0,,Key Animation\N\NMITSUO ISO\NKATSUICHI NAKAYAMA\NSHINYA TAKAHASHI\NHIROKI TAKAGI\NYUTAKA HONDA\NKAZUYA KURODA
 Dialogue: 1,0:22:24.79,0:22:32.69,ED/E,Claire Littley,0,0,0,,{\fad(500,1500)\blur1}In other words, darling, kiss me.
 Dialogue: 0,0:22:24.79,0:22:32.69,ED/E,Claire Littley,0,0,0,,{\fad(500,1500)\blur1}In other words, darling, kiss me.
-Dialogue: 0,0:22:25.87,0:22:29.87,Top Translation,,0,0,0,,Key Animation\N\NNAOYA FURUKAWA\NHIDEYUKI MORIOKA\NHIDENORI FUKUOKA\NSHIGEKI SUNADA\NAKIRA YOSHINARI\NISAMU IMAGAKE
-Dialogue: 0,0:22:30.08,0:22:33.79,Top Translation,,0,0,0,,Animation Check\N\NYASUHITO MURATA\N\NAnimation\N\NTAKAHIRO ONODA\NSEIICHIRO SHINOKURA\NSTUDIO ALGO SHIP\NSTUDIO JUNGLE GYM\NMARSA CO., LTD.\NSTUDIO DEEN
+Dialogue: 0,0:22:26.03,0:22:29.83,Top Translation,,0,0,0,,Key Animation\N\NNAOYA FURUKAWA\NHIDEYUKI MORIOKA\NHIDENORI FUKUOKA\NSHIGEKI SUNADA\NAKIRA YOSHINARI\NISAMU IMAGAKE
+Dialogue: 0,0:22:30.04,0:22:33.83,Top Translation,,0,0,0,,Animation Check\N\NYASUHITO MURATA\N\NAnimation\N\NTAKAHIRO ONODA\NSEIICHIRO SHINOKURA\NSTUDIO ALGO SHIP\NSTUDIO JUNGLE GYM\NMARSA CO., LTD.\NSTUDIO DEEN
 Dialogue: 1,0:22:33.19,0:22:36.03,ED/E,Claire Littley,0,0,0,,{\fad(300,500)\blur1}Fill my heart with song,
 Dialogue: 0,0:22:33.19,0:22:36.03,ED/E,Claire Littley,0,0,0,,{\fad(300,500)\blur1}Fill my heart with song,
 Dialogue: 0,0:22:34.04,0:22:37.81,Top Translation,,0,0,0,,Color Design & Inspection\NHARUMI TAKABOSHI\N\NSpecial Effects\NNORIYUKI OHTA\N\NCG Production\NGAINAX SHOP
 Dialogue: 0,0:22:36.03,0:22:41.27,ED/E,Claire Littley,0,0,0,,{\fad(500,1300)\blur1}and let me sing forever more.
-Dialogue: 0,0:22:38.09,0:22:41.84,Top Translation,,0,0,0,,Finishing\N\NTATSUNOKO COLOR CENTER\NHIDEKO KITAZUME\NKIYOKO MOMOSE\NCHIEKO ODAKA\N\NMARSA CO., LTD.\N\NRISU WORK\NMAKI PRO
+Dialogue: 0,0:22:38.04,0:22:41.80,Top Translation,,0,0,0,,Finishing\N\NTATSUNOKO COLOR CENTER\NHIDEKO KITAZUME\NKIYOKO MOMOSE\NCHIEKO ODAKA\N\NMARSA CO., LTD.\N\NRISU WORK\NMAKI PRO
 Dialogue: 1,0:22:39.27,0:22:41.27,ED/E,Claire Littley,0,0,0,,{\fad(500,1300)\blur1}and let me sing forever more.
 Dialogue: 1,0:22:41.69,0:22:49.19,ED/E,Claire Littley,0,0,0,,{\fad(300,1600)\blur1}You are all I long for, all I worship and adore.
 Dialogue: 0,0:22:41.69,0:22:49.19,ED/E,Claire Littley,0,0,0,,{\fad(300,1600)\blur1}You are all I long for, all I worship and adore.
-Dialogue: 0,0:22:42.05,0:22:45.64,Top Translation,,0,0,0,,Background Art\NSTUDIO BIHOU\NHIROSHI KATO\NTATSUYA KUSHIDA\NYUSUKE TAKEDA\NDAI OHTA\NMASARU SATO\NTATSURO ISERI
-Dialogue: 0,0:22:46.01,0:22:49.68,Top Translation,,0,0,0,,Photography\NCOSMOS\NMOTOAKI IKEGAMI\NNORIKO SUZUKI\NHIROSHI NOGUCHI\NNAOHISA HAISHIMA\NYUUICHI ONO\NJUNICHI YAITABASHI\NKOUICHI FURUSAWA
+Dialogue: 0,0:22:42.05,0:22:45.80,Top Translation,,0,0,0,,Background Art\NSTUDIO BIHOU\NHIROSHI KATO\NTATSUYA KUSHIDA\NYUSUKE TAKEDA\NDAI OHTA\NMASARU SATO\NTATSURO ISERI
+Dialogue: 0,0:22:46.05,0:22:49.81,Top Translation,,0,0,0,,Photography\NCOSMOS\NMOTOAKI IKEGAMI\NNORIKO SUZUKI\NHIROSHI NOGUCHI\NNAOHISA HAISHIMA\NYUUICHI ONO\NJUNICHI YAITABASHI\NKOUICHI FURUSAWA
 Dialogue: 1,0:22:49.19,0:22:57.36,ED/E,Claire Littley,0,0,0,,{\fad(300,1500)\blur1}In other words, please be true!
 Dialogue: 0,0:22:49.19,0:22:57.36,ED/E,Claire Littley,0,0,0,,{\fad(300,1500)\blur1}In other words, please be true!
-Dialogue: 0,0:22:50.02,0:22:53.93,Top Translation,,0,0,0,,Editing\NSACHI MIKI\N\NFilm Processing\NTOKYO LABORATORY\N\NProduction Desk\NHIROMICHI OISHI\N\NProduction Manager\NKEN ANDO\N\NProducer's Assistant\NTOMOKO TAKAHASHI
-Dialogue: 0,0:22:53.98,0:22:57.89,Top Translation,,0,0,0,,Sound Effects\NTORU NOGUCHI\N(Anime Sound)\N\NAudio Mixing\NYOSHIO OBARA\N\NSTUDIO\NTAVAC\N\NVideo Editing\NHIROSHI UCHIMURA\N(TRYGON)\N\NOperator\NKOZO YONEYAMA\N(VIDEO SUNMALL)
+Dialogue: 0,0:22:50.06,0:22:53.81,Top Translation,,0,0,0,,Editing\NSACHI MIKI\N\NFilm Processing\NTOKYO LABORATORY\N\NProduction Desk\NHIROMICHI OISHI\N\NProduction Manager\NKEN ANDO\N\NProducer's Assistant\NTOMOKO TAKAHASHI
+Dialogue: 0,0:22:54.06,0:22:57.81,Top Translation,,0,0,0,,Sound Effects\NTORU NOGUCHI\N(Anime Sound)\N\NAudio Mixing\NYOSHIO OBARA\N\NSTUDIO\NTAVAC\N\NVideo Editing\NHIROSHI UCHIMURA\N(TRYGON)\N\NOperator\NKOZO YONEYAMA\N(VIDEO SUNMALL)
 Dialogue: 1,0:22:57.36,0:23:05.74,ED/E,Claire Littley,0,0,0,,{\fad(700,3420)\blur1}In other words, I love you!
 Dialogue: 0,0:22:57.36,0:23:05.74,ED/E,Claire Littley,0,0,0,,{\fad(700,3420)\blur1}In other words, I love you!
-Dialogue: 0,0:22:57.90,0:23:01.81,Top Translation,,0,0,0,,Animation Producers\N\NMOTOKI UEDA\NSHUJI UCHIYAMA\NHIROYUKI YAMAGA
-Dialogue: 0,0:23:01.99,0:23:04.95,Top Translation,,0,0,0,,Production\N\NTV TOKYO\NChu!\N\NNAS
+Dialogue: 0,0:22:58.06,0:23:01.81,Top Translation,,0,0,0,,Animation Producers\N\NMOTOKI UEDA\NSHUJI UCHIYAMA\NHIROYUKI YAMAGA
+Dialogue: 0,0:23:02.07,0:23:04.95,Top Translation,,0,0,0,,Production\N\NTV TOKYO\NChu!\N\NNAS
 Dialogue: 1,0:23:05.91,0:23:06.82,TBC,,0,0,0,,{\fs180\blur0.3\clip(m 808 698 l 900 696 900 822 805 822 806 793 806 738)\pos(621.81,839.75)\fscx92\fscy96}{\c&H000000&}P{\c&HE9E9E9&}{\blur2}revie{\c&H000000&}w
 Dialogue: 0,0:23:05.91,0:23:06.82,TBC,,0,0,0,,{\fs180\blur0.7\clip(m 374 686 l 807 700 806 740 805 789 805 820 374 823)\pos(619.81,839.75)\fscx92\fscy96}{\c&H000000&}P{\c&HE9E9E9&}{\blur2}review
 Dialogue: 1,0:23:05.91,0:23:06.82,TBC,,0,0,0,,{\fs180\bord0.5\3c&H555555&\blur0.7\clip(m 808 698 l 900 696 900 822 805 822 806 793 806 738)\pos(621.81,839.75)\fscx92\fscy96}{\c&H000000&}P{\c&HE9E9E9&}revie{\c&H000000&}w
@@ -531,8 +546,9 @@ Dialogue: 0,0:23:05.91,0:23:06.82,TBC,,0,0,0,,{\fs180\bord1.5\3c&H555555&\blur0.
 Dialogue: 0,0:23:06.52,0:23:09.00,Bottom Dialog,,0,0,0,,Misato: The Eva triumphs, but this angel is only the beginning.
 Dialogue: 0,0:23:09.50,0:23:12.94,Bottom Dialog,,0,0,0,,Misato: Worried about Shinji's mental state, Misato brashly decides to move him in with her.
 Dialogue: 0,0:23:13.34,0:23:16.50,Bottom Dialog,,0,0,0,,Misato: However, Shinji's mind only becomes more shut off from the rest of the world.
-Dialogue: 0,0:23:16.82,0:23:20.48,Bottom Dialog,,0,0,0,,Misato: It all happens in the next episode, and I'll be slipping you a little extra as well.
+Dialogue: 0,0:23:16.82,0:23:20.48,Bottom Dialog,,0,0,0,,Misato: It all happens in the next episode, and I'll be slipping you a little *extra* as well.
 Dialogue: 1,0:23:18.84,0:23:20.92,Eptitle/N,,0,0,0,,{\c&H1F1D1E&\3c&H302F30&\bord0.1\be1\blur0.6\fscx82\fscy115\pos(691.948,198.583)}Next Time
 Dialogue: 0,0:23:18.84,0:23:20.92,Eptitle/N,,0,0,0,,{\blur1.2\bord0.8\1a&HFF\3c&H302F30&\c&H030203&\be1\fscx82\fscy115\pos(691.948,198.583)}Next Time
 Dialogue: 1,0:23:18.84,0:23:20.92,Eptitle/N,,0,0,0,,{\c&H1F1D1E&\3c&H302F30&\bord0.1\be1\fs115\blur0.6\pos(709.226,458.084)}Unfamiliar Ceiling
 Dialogue: 0,0:23:18.84,0:23:20.92,Eptitle/N,,0,0,0,,{\1a&HFF\blur1.2\bord1\3c&H3C383C&\be1\fs115\pos(709.226,458.084)}Unfamiliar Ceiling
+Dialogue: 0,0:23:20.92,0:23:21.92,Bottom Dialog,,0,0,0,,ENGLISH VOCAL CAST\NShinji Ikari: Spike Spencer\NMisato Katsuragi: Allison Keith\NRitsuko Akagi: Sue Ulu\NRei Ayanami: Amanda Winn\NGendo Ikari: Tristan MacAvery\NKouzou Fuyutsuki: Guil Lunde\NMaya Ibuki: Kendra Benham\NMakoto Hyuga: Brian Granveldt\NShigeru Aoba: Jason Lee\NA.D.V. FILMS ENGLISH VERSION — Executive Producers: John Ledford, Mark Williams • Produced & Written by: Matt Greenfield • International Coordinator: Toru Iwakami • Project Translator: Kuni Kimura • Additional Translation: Shoko Oono • Directors: Matt Greenfield, Amanda Winn • Subtitle Script & Timing: Andrew Kent • Recorded at: Industrial Smoke & Mirrors • ADR Engineer: Charles Campbell • 5.1 Sound Design & Mix: Wade Shemwell • ADR Editors: Matt Crawford, Jason Grundy, Jacob A. Gragard, Wade Shemwell, Jon Duckworth • Post Production Manager: Shelly Thomas • Post Production: Monkey Boy Post • Editors: Joey Goubeaud, Neil O'Sullivan • Creative Directors: Chris Hawley, David Del Rio • Production Assistants: Maria Bechtol, Carole Pavlik, Robert Marchand
