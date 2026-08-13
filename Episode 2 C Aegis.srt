@@ -1,0 +1,1120 @@
+1
+00:00:01,160 --> 00:00:12,480
+Misato: Are you ready Shinji?
+
+2
+00:00:12,480 --> 00:00:12,480
+Shinji: Um yeah.
+
+3
+00:00:12,480 --> 00:00:12,480
+Misato: Final safety locks, release!
+
+4
+00:00:12,480 --> 00:00:12,480
+Misato: Evangelion Unit-01, move out!
+
+5
+00:00:12,480 --> 00:00:12,480
+Ritsuko: Shinji, just oncentrate on walking for now.
+
+6
+00:00:12,480 --> 00:00:12,480
+Ritsuko: Uh. Walk.
+
+7
+00:02:00,320 --> 00:02:00,940
+Ritsuko: He's walking!
+
+8
+00:02:03,960 --> 00:02:04,680
+Shinji: Walking.
+
+9
+00:02:12,160 --> 00:02:13,780
+Misato: Shiji! Are you okay?
+
+10
+00:02:14,960 --> 00:02:15,980
+Misato: Hurry! Hurry!
+
+11
+00:02:16,480 --> 00:02:17,440
+Misato: You've got to get out!
+
+12
+00:02:17,700 --> 00:02:17,720
+Shinji: Oh!
+
+13
+00:02:22,800 --> 00:02:23,000
+Shinji: Oh! Ohhh.
+
+14
+00:02:29,360 --> 00:02:31,980
+Misato: Shinji, calm down! That's not your real arm!
+
+15
+00:02:36,680 --> 00:02:38,000
+Ritsuko: Where is defense system?
+
+16
+00:02:38,280 --> 00:02:39,400
+Makoto: The signal's not working!
+
+17
+00:02:40,000 --> 00:02:41,700
+Makoto: His field's not up! It's not unfolding!
+
+18
+00:02:41,980 --> 00:02:42,800
+Ritsuko: It's not up?
+
+19
+00:02:47,460 --> 00:02:48,460
+Ibuki: Left arm damaged!
+
+20
+00:02:48,740 --> 00:02:49,800
+Makoto: The circuits are snapped!
+
+21
+00:02:52,900 --> 00:02:53,740
+Misato: Shinji, move!
+
+22
+00:02:53,740 --> 00:02:53,740
+Shinji: Whoa! Ahh!
+
+23
+00:03:00,320 --> 00:03:01,680
+Ibuki: There's a crack on the front of the brain cases.
+
+24
+00:03:02,260 --> 00:03:03,560
+Ritsuko: That armor won't take much more.
+
+25
+00:03:12,440 --> 00:03:15,000
+Makoto: The head is damaged, extended damage, unknown!
+
+26
+00:03:15,220 --> 00:03:16,640
+Ibuki: The controllers are breaking up.
+
+27
+00:03:16,780 --> 00:03:18,420
+Aoba: We're not getting any ratings on the pilot.
+
+28
+00:03:20,360 --> 00:03:20,680
+Misato: No, Shiji!
+
+29
+00:03:20,680 --> 00:03:20,680
+Shinji: Ah!
+
+30
+00:03:20,680 --> 00:03:20,680
+Ibuki: Cicadas Droning
+
+31
+00:03:53,080 --> 00:03:54,260
+Ritsuko: Unfamiliar ceiling.
+
+32
+00:04:08,660 --> 00:04:10,940
+US Representative Green: So, the angels have returned.
+
+33
+00:04:11,500 --> 00:04:12,420
+US Representative Green: It's rather sudden.
+
+34
+00:04:13,040 --> 00:04:15,700
+Male Voice: It's the same as it was 15 years ago.
+
+35
+00:04:16,799 --> 00:04:17,959
+Male Voice: That's the way of disasters.
+
+36
+00:04:18,079 --> 00:04:19,459
+Male Voice: They come without warning.
+
+37
+00:04:20,079 --> 00:04:25,520
+UK Representative Red: On the positive side, our previous investments would appear to be not such a waste after all.
+
+38
+00:04:25,880 --> 00:04:27,620
+Russia Representative Purple: You can't be sure about that yet.
+
+39
+00:04:28,420 --> 00:04:30,800
+Russia Representative Purple: If it doesn't pay off, it's still a waste.
+
+40
+00:04:30,960 --> 00:04:31,420
+French Representative Yellow: Correct.
+
+41
+00:04:32,300 --> 00:04:35,220
+French Representative Yellow: Now that news of the Angels has become common knowledge,
+
+42
+00:04:36,260 --> 00:04:42,660
+French Representative Yellow: Nerve must take steps to control the manner in which this information is received by the general public.
+
+43
+00:04:43,940 --> 00:04:46,880
+Gendo: You may rest assured that it's already been taken care of.
+
+44
+00:04:47,460 --> 00:04:47,940
+Gendo: Don't worry.
+
+45
+00:04:47,940 --> 00:04:47,940
+Gendo: Government officials have announced that
+
+46
+00:04:47,940 --> 00:04:47,940
+Gendo: This incident
+
+47
+00:04:55,740 --> 00:04:57,760
+Misato: Public scenario B-22.
+
+48
+00:04:58,260 --> 00:04:59,180
+Misato: Just like we thought.
+
+49
+00:05:00,040 --> 00:05:01,420
+Misato: So we're covering up the truth again?
+
+50
+00:05:01,920 --> 00:05:04,040
+Ritsuko: Well, at least the PR people are happy.
+
+51
+00:05:04,420 --> 00:05:05,900
+Ritsuko: They finally got something to do.
+
+52
+00:05:06,140 --> 00:05:08,260
+Misato: We're being pretty casual about it.
+
+53
+00:05:09,000 --> 00:05:10,020
+Misato: I don't think so.
+
+54
+00:05:10,580 --> 00:05:12,280
+Misato: Actually, I think we're all pretty scared.
+
+55
+00:05:12,760 --> 00:05:13,860
+Shinji: Of course we are.
+
+56
+00:05:14,660 --> 00:05:16,780
+Russia Representative Purple: Well, we must acknowledge that.
+
+57
+00:05:17,180 --> 00:05:22,420
+US Representative Green: But still, I wonder, Mr. Ikari, were Nerve and Eva used efficiently?
+
+58
+00:05:22,980 --> 00:05:29,700
+French Representative Yellow: Repair costs for Unit-01 added to the development costs for Unit-00 are simply staggering.
+
+59
+00:05:30,260 --> 00:05:34,300
+UK Representative Red: We also understand that you gave that toy to your own son.
+
+60
+00:05:34,880 --> 00:05:37,460
+Russia Representative Purple: Time, money, and manpower.
+
+61
+00:05:38,460 --> 00:05:41,060
+Russia Representative Purple: How much more will be wasted by you and your family?
+
+62
+00:05:41,520 --> 00:05:43,620
+UK Representative Red: And that is not your only responsibility.
+
+63
+00:05:44,800 --> 00:05:47,700
+UK Representative Red: The Human Enhancement Project. That should be your top priority.
+
+64
+00:05:48,420 --> 00:05:56,180
+French Representative Yellow: Correct. Under these desperate circumstances, that project may be the only real hope for the future of mankind. Do you understand?
+
+65
+00:05:57,020 --> 00:06:01,860
+Keel Lorenz: In any event, the Angels are no excuse for the delay in the schedule of that project.
+
+66
+00:06:03,200 --> 00:06:05,240
+Keel Lorenz: We may consider adjusting the budget.
+
+67
+00:06:05,420 --> 00:06:07,640
+US Representative Green: The rest of the meeting does not concern you.
+
+68
+00:06:07,660 --> 00:06:10,340
+French Representative Yellow: Your presence here was... appreciated.
+
+69
+00:06:12,340 --> 00:06:15,920
+Keel Lorenz: Ikari, you do know that there can be no turning back.
+
+70
+00:06:18,580 --> 00:06:19,680
+Gendo: I know.
+
+71
+00:06:21,760 --> 00:06:23,840
+Gendo: Mankind has no time left.
+
+72
+00:06:51,640 --> 00:06:53,600
+US Representative Green: Man, air conditioning's the greatest thing.
+
+73
+00:06:54,060 --> 00:06:55,540
+US Representative Green: Man's Triumph over nature!
+
+74
+00:06:56,600 --> 00:06:58,040
+Ritsuko: Shinji's finally woken up!
+
+75
+00:06:59,460 --> 00:07:01,040
+Misato: And... how is he?
+
+76
+00:07:01,780 --> 00:07:04,720
+Ritsuko: Well, his memory seems a bit muddled, but...
+
+77
+00:07:04,720 --> 00:07:06,580
+Misato: You don't think it could be contamination, do you?
+
+78
+00:07:07,200 --> 00:07:08,720
+Ritsuko: I don't think we should worry.
+
+79
+00:07:09,820 --> 00:07:09,980
+Misato: Really?
+
+80
+00:07:12,260 --> 00:07:14,740
+Misato: You're right. He did have a pretty hectic day.
+
+81
+00:07:15,080 --> 00:07:18,640
+Ritsuko: Poor little kid. His cerebellum must have taken a lot of stress.
+
+82
+00:07:19,820 --> 00:07:21,600
+Misato: Cerebellum? Don't you mean his heart?
+
+83
+00:07:49,420 --> 00:07:53,480
+Misato: If Eva and this city both operated their full potential, we might make it through this.
+
+84
+00:07:54,280 --> 00:07:55,800
+Ritsuko: You're such an optimist.
+
+85
+00:07:56,300 --> 00:08:00,200
+Misato: Hey, sometimes you need a little wishful thinking just to keep on living.
+
+86
+00:08:00,700 --> 00:08:05,700
+Ritsuko: I see your point. It's nice to hear a positive attitude. I'll see you later.
+
+87
+00:08:06,400 --> 00:08:07,780
+Misato: Okay, see ya.
+
+88
+00:08:09,380 --> 00:08:13,500
+Female Voice: Dr. Uga'i, Internal Department 1. Dr. Uga'i, Internal Department 1.
+
+89
+00:08:14,040 --> 00:08:17,240
+Female Voice: Please call Dr. Azuma of the First Surgical Department immediately.
+
+90
+00:08:18,800 --> 00:08:22,420
+Female Voice: The medical conference regarding the B experiment will be held as scheduled.
+
+91
+00:08:22,860 --> 00:08:25,940
+Female Voice: All supervisors, please proceed to conference room two.
+
+92
+00:08:47,860 --> 00:08:50,520
+Ritsuko: They don't want to live together? Are you sure?
+
+93
+00:08:51,160 --> 00:08:54,080
+Fuyutski: I think that living apart is natural to them.
+
+94
+00:08:54,820 --> 00:08:56,960
+Ritsuko: And being together is unnatural?
+
+95
+00:09:00,920 --> 00:09:01,780
+Misato: You'll be living alone?
+
+96
+00:09:02,340 --> 00:09:06,240
+Male Voice: That's right. His room will be on the sixth block beyond this one. Is that alright?
+
+97
+00:09:07,140 --> 00:09:07,580
+Shinji: Yes, sir.
+
+98
+00:09:09,300 --> 00:09:11,600
+Misato: Shinji, are you sure about that?
+
+99
+00:09:12,420 --> 00:09:16,260
+Shinji: Living alone is fine with me. I'm alone anyway.
+
+100
+00:09:18,020 --> 00:09:18,780
+Ritsuko: What did you say?
+
+101
+00:09:18,940 --> 00:09:22,940
+Misato: You heard me! I said I'll be taking Shinji home to live in my place, okay?
+
+102
+00:09:23,760 --> 00:09:24,980
+Misato: It's already been approved.
+
+103
+00:09:26,020 --> 00:09:29,080
+Misato: And don't worry, I'm not gonna be making any passes at him.
+
+104
+00:09:29,240 --> 00:09:31,780
+Ritsuko: Of course you're not! How could you even think of such a thing?
+
+105
+00:09:32,020 --> 00:09:33,080
+Ritsuko: You've got no shame at all!
+
+106
+00:09:33,100 --> 00:09:35,140
+Misato: Some people don't have any sense of humor.
+
+107
+00:09:40,579 --> 00:09:43,240
+Misato: Well, I guess we have to have a party tonight, huh?
+
+108
+00:09:43,680 --> 00:09:44,520
+Shinji: Why is that?
+
+109
+00:09:44,920 --> 00:09:47,800
+Shinji: It's a welcoming party in honor of my new roommate, of course
+
+110
+00:10:04,340 --> 00:10:07,020
+Female Voice: Yes, I'd never have dreamt that this city would become a battlefield
+
+111
+00:10:07,440 --> 00:10:10,740
+Woman 2: Yeah, my husband's saying that at least the kids and I should move.
+
+112
+00:10:11,240 --> 00:10:11,700
+Female Voice: Don't I know it
+
+113
+00:10:11,820 --> 00:10:14,740
+Female Voice: This city may be a fortress, but that's no guarantee of safety.
+
+114
+00:10:15,260 --> 00:10:17,340
+Woman 2: Just thinking about last night gives me the chills.
+
+115
+00:10:21,520 --> 00:10:24,460
+Misato: I hope you don't mind if we make a little stop on the way.
+
+116
+00:10:25,280 --> 00:10:25,900
+Shinji: A stop where?
+
+117
+00:10:26,480 --> 00:10:28,500
+US Representative Green: Oh, it's a really cool place.
+
+118
+00:10:33,200 --> 00:10:34,360
+Shinji: It's so desolate.
+
+119
+00:10:36,460 --> 00:10:37,980
+Shinji: The city seems so lonely.
+
+120
+00:10:40,280 --> 00:10:41,020
+Misato: Here we go.
+
+121
+00:11:06,940 --> 00:11:07,580
+Shinji: It's awesome.
+
+122
+00:11:07,920 --> 00:11:10,120
+Shinji: The buildings are growing!
+
+123
+00:11:23,180 --> 00:11:26,660
+Misato: This city is a fortress designed to stand against the angels.
+
+124
+00:11:29,120 --> 00:11:30,660
+Misato: This is Tokyo 3.
+
+125
+00:11:31,750 --> 00:11:35,340
+Misato: This is our city, and it's the city that you saved.
+
+126
+00:11:35,340 --> 00:11:35,340
+Misato: Your things out to have been delivered already shinji.
+
+127
+00:11:35,340 --> 00:11:35,340
+Misato: Hey, come in.
+
+128
+00:12:05,700 --> 00:12:06,280
+Shinji: I don't want to intrude.
+
+129
+00:12:07,220 --> 00:12:09,640
+Misato: Shinji, this is *your* home now.
+
+130
+00:12:18,420 --> 00:12:19,400
+Shinji: Uh. I'm...I'm home.
+
+131
+00:12:20,040 --> 00:12:21,040
+Misato: Welcome home.
+
+132
+00:12:23,720 --> 00:12:29,160
+Misato: Um, as you can see, the place is just a little bit messy, but ahah go ahead and make yourself comfortable.
+
+133
+00:12:29,840 --> 00:12:32,100
+Shinji: Um, This is a *little* messy?
+
+134
+00:12:34,500 --> 00:12:37,140
+Misato: Oh, sorry. Could you put the food in the fridge, please?
+
+135
+00:12:37,500 --> 00:12:38,740
+Shinji: Uh, yes, ma'am.
+
+136
+00:12:40,900 --> 00:12:45,780
+Shinji: Ice, snacks, and 50 gallons of beer.
+
+137
+00:12:46,900 --> 00:12:48,420
+Shinji: What kind of life does she lead?
+
+138
+00:12:49,960 --> 00:12:50,120
+Shinji: Huh.
+
+139
+00:12:55,160 --> 00:12:58,040
+Shinji: Uh, excuse me. What's in the other fridge?
+
+140
+00:12:58,360 --> 00:13:00,800
+Misato: Oh, don't mind that. He's probably still sleeping.
+
+141
+00:13:02,740 --> 00:13:03,060
+Shinji: Sleeping?
+
+142
+00:13:05,160 --> 00:13:06,200
+Misato: Let's eat!
+
+143
+00:13:07,040 --> 00:13:08,500
+Shinji: Yeah, let's eat.
+
+144
+00:13:12,600 --> 00:13:16,280
+Misato: Woo! Yeah! Good stuff! Uhp.
+
+145
+00:13:17,930 --> 00:13:21,220
+Misato: You know, life just doesn't get any better than this.
+
+146
+00:13:22,380 --> 00:13:26,480
+Misato: Hmm? Not hungry? It's good, even if it is all instant.
+
+147
+00:13:27,800 --> 00:13:31,540
+Shinji: I-I'm sorry. I'm just not used to food like this.
+
+148
+00:13:32,520 --> 00:13:34,100
+Misato: WHAT? Are you finicky?
+
+149
+00:13:34,660 --> 00:13:35,020
+Misato: HM?
+
+150
+00:13:35,600 --> 00:13:37,300
+Shinji: Um, no. That's not what... Uh, well.
+
+151
+00:13:39,519 --> 00:13:40,620
+Misato: Isn't this nice?
+
+152
+00:13:41,880 --> 00:13:43,900
+Misato: Having two for dinner sure beats eating alone, ?
+
+153
+00:13:44,320 --> 00:13:44,320
+Shinji: Uh huh?
+
+154
+00:13:47,060 --> 00:13:49,860
+Misato: Here we go. Let's go for the next one.
+
+155
+00:13:51,420 --> 00:13:53,740
+Misato: Paper, scissors, stone.
+
+156
+00:13:54,820 --> 00:13:57,940
+Misato: Three, two, one, go!
+
+157
+00:13:59,420 --> 00:14:01,020
+Misato: I'm sorry, Shinji.
+
+158
+00:14:02,220 --> 00:14:05,500
+Misato: Okay, that was a really fair way to split up the chores, wasn't it?
+
+159
+00:14:07,100 --> 00:14:07,540
+Shinji: Yeah.
+
+160
+00:14:08,120 --> 00:14:11,180
+Misato: This is your home, so feel free to take advantage of everything here.
+
+161
+00:14:12,060 --> 00:14:13,740
+Misato: Except, of course, of me, that is.
+
+162
+00:14:14,240 --> 00:14:15,740
+US Representative Green: Uh, yes, ma'am.
+
+163
+00:14:16,480 --> 00:14:17,540
+Misato: Hoo. Yes, yes, yes.
+
+164
+00:14:17,970 --> 00:14:19,080
+Misato: Is that all you can say?
+
+165
+00:14:19,480 --> 00:14:21,220
+Misato: It's *getting* on my nerves!
+
+166
+00:14:21,540 --> 00:14:22,980
+Misato: You're a bully! Act like one!
+
+167
+00:14:23,280 --> 00:14:24,000
+Shinji: Yes, ma'am!
+
+168
+00:14:24,780 --> 00:14:26,860
+Misato: I guess that's just the way you are.
+
+169
+00:14:27,460 --> 00:14:28,580
+Misato: Why don't you go take a bath?
+
+170
+00:14:29,100 --> 00:14:31,080
+Misato: Yeah! Wash away your troubles!
+
+171
+00:14:31,860 --> 00:14:33,480
+Misato: Bathing cleans the mind and soul.
+
+172
+00:14:42,620 --> 00:14:43,220
+Shinji: Ohoh.
+
+173
+00:14:43,220 --> 00:14:44,300
+Shinji: Oh! Miss Misano! Uh pp, uh pp.
+
+174
+00:14:45,340 --> 00:14:45,760
+Misato: What?
+
+175
+00:14:49,120 --> 00:14:51,940
+Misato: Oh, him?
+
+176
+00:14:52,580 --> 00:14:54,240
+Misato: He's one of those new warm water penguins.
+
+177
+00:15:03,220 --> 00:15:04,800
+Shinji: Uhuh, That was... that was a wa-what?
+
+178
+00:15:05,140 --> 00:15:07,320
+Misato: His name's Penpen. He's your other roommate.
+
+179
+00:15:10,500 --> 00:15:11,520
+Misato: Why don't you cover up?
+
+180
+00:15:18,160 --> 00:15:18,680
+Shinji: Ohuh?
+
+181
+00:15:18,680 --> 00:15:23,140
+Misato: Huh. I guess I should be nicer, but he's probably already made up his mind about me.
+
+182
+00:15:27,200 --> 00:15:28,160
+Shinji: Misato Katsaragi.
+
+183
+00:15:29,560 --> 00:15:30,620
+Shinji: She's not a bad person.
+
+184
+00:15:31,200 --> 00:15:32,720
+Misato: Bathing claims the mind and soul!
+
+185
+00:15:33,460 --> 00:15:36,100
+Shinji: But bad memories always seem to find me in the bath.
+
+186
+00:15:38,380 --> 00:15:39,100
+Shinji: Like my father.
+
+187
+00:15:41,120 --> 00:15:42,000
+Shinji: And that girl Rei.
+
+188
+00:15:46,080 --> 00:15:47,260
+Ritsuko: So how was Rei today?
+
+189
+00:15:50,280 --> 00:15:52,560
+Ritsuko: You did see her at the hospital today, didn't you?
+
+190
+00:15:54,040 --> 00:15:56,020
+Gendo: She can work again in 20 days.
+
+191
+00:15:57,240 --> 00:16:00,360
+Gendo: By then, we'll be ready to reactivate Unit-00 from cryostasis.
+
+192
+00:16:01,580 --> 00:16:03,560
+Ritsuko: It's so hard on these children.
+
+193
+00:16:03,880 --> 00:16:06,160
+Gendo: There's no one else who can pilot the Evas.
+
+194
+00:16:07,040 --> 00:16:10,500
+Gendo: As long as they survive, that is what I'll have them do.
+
+195
+00:16:11,120 --> 00:16:13,580
+Ritsuko: With no regard to what *they* may want?
+
+196
+00:16:32,020 --> 00:16:37,280
+Misato: Yeahuh, after all the horrible stuff he went through, I don't think he'll pilot again.
+
+197
+00:16:37,640 --> 00:16:39,880
+Ritsuko: Maintaining him is part of your job.
+
+198
+00:16:40,980 --> 00:16:41,880
+Misato: I'm just scared.
+
+199
+00:16:41,960 --> 00:16:43,860
+Misato: I don't know how to deal with him.
+
+200
+00:16:44,160 --> 00:16:45,200
+Ritsuko: Grumbling already?
+
+201
+00:16:45,840 --> 00:16:48,000
+Ritsuko: But it was your idea to take him in, you know.
+
+202
+00:16:48,180 --> 00:16:48,940
+Misato: Oh, shut up!
+
+203
+00:16:51,900 --> 00:16:54,080
+Misato: Huh, I was just thinking of Shinji as a tool.
+
+204
+00:16:55,360 --> 00:16:57,280
+Misato: I'm as shameless as Ritsuko.
+
+205
+00:16:59,260 --> 00:17:00,880
+Misato: We destroyed the angel, but...
+
+206
+00:17:02,100 --> 00:17:02,960
+Misato: I don't feel happy.
+
+207
+00:17:06,819 --> 00:17:08,439
+Shinji: Another unfamiliar ceiling.
+
+208
+00:17:10,980 --> 00:17:15,780
+Shinji: Of course, in this whole city, there's no place that's familiar.
+
+209
+00:17:16,620 --> 00:17:18,140
+Misato: This is *your* home now.
+
+210
+00:17:19,520 --> 00:17:20,800
+Shinji: Why am I here?
+
+211
+00:17:20,800 --> 00:17:20,800
+Makoto: The head is damaged. The head is damaged!
+
+212
+00:17:20,800 --> 00:17:20,800
+Ibuki: We're having problems maintaing activation!
+
+213
+00:17:20,800 --> 00:17:20,800
+Misato: Status report!
+
+214
+00:17:20,800 --> 00:17:20,800
+Ibuki: Syncrograph reversing.
+
+215
+00:17:47,280 --> 00:17:52,320
+Ibuki: The pulses are blowing backwards!
+
+216
+00:17:52,340 --> 00:17:53,420
+Ritsuko: Break the circuit now!
+
+217
+00:17:53,620 --> 00:17:54,060
+Ritsuko: Do it!
+
+218
+00:17:54,220 --> 00:17:55,200
+Ibuki: We can't!
+
+219
+00:17:55,320 --> 00:17:56,480
+Ibuki: It's not accepting the signal!
+
+220
+00:17:57,020 --> 00:17:58,200
+Misato: What about Shinji?
+
+221
+00:17:58,360 --> 00:17:59,500
+Makoto: His monitors aren't reacting.
+
+222
+00:17:59,900 --> 00:18:00,760
+Makoto: His condition's unknown!
+
+223
+00:18:01,060 --> 00:18:02,440
+Aoba: Unit 1's gone completely silent!
+
+224
+00:18:02,540 --> 00:18:02,900
+Ritsuko: Misato!
+
+225
+00:18:03,840 --> 00:18:05,000
+Misato: We've got no choice.
+
+226
+00:18:05,300 --> 00:18:06,260
+Misato: Abort the operation!
+
+227
+00:18:06,640 --> 00:18:07,880
+Misato: We've got to rescue the pilot!
+
+228
+00:18:08,160 --> 00:18:09,440
+Misato: Eject the entry plug!
+
+229
+00:18:09,660 --> 00:18:10,340
+Ibuki: We can't!
+
+230
+00:18:10,480 --> 00:18:11,600
+Ibuki: It's completely out of control!
+
+231
+00:18:11,960 --> 00:18:12,860
+Misato: *What* did you say?
+
+232
+00:18:20,699 --> 00:18:22,700
+Misato: The Eva's reactivating.
+
+233
+00:18:22,900 --> 00:18:24,980
+Ibuki: I don't believe it! This can't be!
+
+234
+00:18:26,140 --> 00:18:27,040
+Misato: My god!
+
+235
+00:18:27,500 --> 00:18:28,060
+Ritsuko: Berserker.
+
+236
+00:18:49,080 --> 00:18:49,840
+Fuyutski: We've done it.
+
+237
+00:18:56,040 --> 00:18:57,060
+Ritsuko: It's an AT field!
+
+238
+00:18:57,860 --> 00:19:00,220
+Misato: No, not now! As long as that field is up!
+
+239
+00:19:00,440 --> 00:19:01,620
+Ritsuko: He can't get near that angel!
+
+240
+00:19:05,200 --> 00:19:06,840
+Aoba: The left arm's regenerated itself!
+
+241
+00:19:06,840 --> 00:19:07,280
+Misato: - No way!
+
+242
+00:19:10,860 --> 00:19:13,480
+Ibuki: Unit-01's expanding its own AT field!
+
+243
+00:19:14,140 --> 00:19:15,580
+Ibuki: It's neutralizing the phase space!
+
+244
+00:19:17,280 --> 00:19:18,620
+Ritsuko: No! It's breaking through it!
+
+245
+00:19:22,300 --> 00:19:25,080
+Misato: It went through the AT field like it wasn't there!
+
+246
+00:20:08,800 --> 00:20:09,140
+Misato: It's gonna self destruct!
+
+247
+00:20:22,380 --> 00:20:23,300
+Misato: Whoa!
+
+248
+00:20:23,300 --> 00:20:24,240
+Misato: Is the Eva?!
+
+249
+00:20:24,240 --> 00:20:24,240
+US Representative Green: Whoah!
+
+250
+00:20:34,080 --> 00:20:34,920
+Ritsuko: That must be,
+
+251
+00:20:34,920 --> 00:20:37,280
+Misato: Eva's true form.
+
+252
+00:20:45,880 --> 00:20:46,920
+Makoto: Circuits reconnected.
+
+253
+00:20:46,990 --> 00:20:47,600
+Ibuki: Systems restored.
+
+254
+00:20:48,020 --> 00:20:48,800
+Ibuki: Graphs back to normal.
+
+255
+00:20:48,920 --> 00:20:50,100
+Makoto: Pilot life science confirmed.
+
+256
+00:20:50,360 --> 00:20:52,400
+Misato: Preserving the pilot's life is our first priority.
+
+257
+00:20:52,740 --> 00:20:54,020
+Ritsuko: Send out the recovery team.
+
+258
+00:20:54,420 --> 00:20:55,220
+Ritsuko: Hurry!
+
+259
+00:20:55,220 --> 00:20:55,220
+Shinji: Huh? Huh? Uh. Uhuh! Oh. Ohh. Huh. AHH!
+
+260
+00:21:36,940 --> 00:21:39,220
+Misato: Shinji, can I come in?
+
+261
+00:21:42,880 --> 00:21:44,480
+Misato: I forgot to tell you something.
+
+262
+00:21:46,040 --> 00:21:49,000
+Misato: You did something *very* good and *very* noble today.
+
+263
+00:21:49,780 --> 00:21:51,080
+Misato: You should, be proud.
+
+264
+00:21:52,160 --> 00:21:53,080
+Misato: Good night, Shinji.
+
+265
+00:21:56,000 --> 00:21:56,600
+Misato: Hang in there.
+
+266
+00:22:00,900 --> 00:22:07,300
+Claire Littley: Claire Littley: Fly me to the moon and let me play among the stars
+
+267
+00:22:09,180 --> 00:22:15,680
+Claire Littley: Let me see what spring is like on Jupiter and Mars
+
+268
+00:22:16,760 --> 00:22:22,260
+Claire Littley: In other words, hold my hand
+
+269
+00:22:24,980 --> 00:22:31,280
+Claire Littley: In other words, don't end kiss me
+
+270
+00:22:33,260 --> 00:22:35,880
+Claire Littley: Fill my heart with some
+
+271
+00:22:36,260 --> 00:22:39,840
+Claire Littley: And let me sing forevermore
+
+272
+00:22:41,660 --> 00:22:44,400
+Claire Littley: You are all I long for
+
+273
+00:22:44,780 --> 00:22:47,600
+Claire Littley: All I worship and adore
+
+274
+00:22:49,300 --> 00:22:52,160
+Claire Littley: In other words
+
+275
+00:22:52,240 --> 00:22:54,300
+Claire Littley: Please be true
+
+276
+00:22:56,960 --> 00:22:59,260
+Claire Littley: In all the words
+
+277
+00:23:01,200 --> 00:23:02,960
+Claire Littley: I love you
+
+278
+00:23:06,740 --> 00:23:11,600
+Misato: Shinji's life is busier than ever, but he keeps to himself, friendless, until it's revealed that he's an Eva pilot.
+
+279
+00:23:12,020 --> 00:23:16,000
+Misato: However, this new hero status brings both embarrassment and the wrath of one boy in particular.
+
+280
+00:23:16,400 --> 00:23:19,300
+Misato: Don't miss the next episode, and I'll sneak in a little bonus, okay?
+
